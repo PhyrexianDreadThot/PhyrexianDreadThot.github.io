@@ -13,7 +13,7 @@
 			<name>Glitz and Glam, Double Trouble</name>
 			<text>Whenever a player taps a land for mana, add one mana of any color.
 Whenever a player draws their second card each turn, draw a card.</text>
-			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/0.png" num="5">HUV</set>
+			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/0.png" num="6">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Whenever a player draws their second card each turn, draw a card.</text>
 			<name>Two Minutes Notice</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Create X treasure tokens for each nonland permanent you control, then you may pay {50}. If you do, you win the game.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/1.png" num="161">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/1.png" num="160">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Create X treasure tokens for each nonland permanent you control, then you may pa
 			<name>Cotton Candy</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Each player gains 2 plus X life X times.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/2.png" num="134">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/2.png" num="133">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -81,7 +81,7 @@ Each player gains 2 plus X life X times.</text>
 			<name>Beelzebub, Sin of Gluttony</name>
 			<text>Flying, lifelink
 Beelzebub enters with X +1/+1 counters, where X is the total life each players has above their starting life total.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/4.png" num="171">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/4.png" num="170">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -99,7 +99,7 @@ Beelzebub enters with X +1/+1 counters, where X is the total life each players h
 			<name>Beelzebub&apos;s Celebration</name>
 			<text>Creatures your opponents control have lifelink.
 Whenever an opponent gains life, create that many 1/1 green and black Insect creature tokens.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/5.png" num="172">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/5.png" num="171">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@ Whenever an opponent gains life, create that many 1/1 green and black Insect cre
 			<text>Flying
 Equipment you control have &quot;Equip—Pay life equal to this artifact&apos;s mana value.&quot;
 When this creature attacks with another equipped creature, draw a card.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/6.png" num="184">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/6.png" num="183">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ When this creature attacks with another equipped creature, draw a card.</text>
 			<text>Trample
 Whenever another creature enters, its controller gains 1 life.
 Whenever an opponent gains life, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/7.png" num="173">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/7.png" num="172">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -156,7 +156,7 @@ Whenever an opponent gains life, put a +1/+1 counter on this creature.</text>
 Each player creates X Food tokens.
 Activated abilities of Food you control cost {X} less to activate this turn.
 When you sacrifice a Food this turn, you draw a card and lose 1 plus X life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/8.png" num="194">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/8.png" num="193">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -173,11 +173,11 @@ When you sacrifice a Food this turn, you draw a card and lose 1 plus X life.</te
 			<name>Once We Get Up There</name>
 			<text>Scry 1, then draw one card.
 (You may cast all parts of this spell for its Reprise cost. If you do, it gains musical.)
-I — Reprise {5}{B}{R}{R} (You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
+I — Reprise {5}{B}{R}{R} (You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 • I&apos;ll End You Just For Fun {1}{R}{R} — This spell deals 2 damage to each creature X times.
 II — • And Snag That Angelic Throne {3}{R} — Gain control of up to X target artifacts.
 III — • We&apos;ll Take Total Control {B} — You draw X cards and lose X life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/9.png" num="202">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/9.png" num="201">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -195,7 +195,7 @@ III — • We&apos;ll Take Total Control {B} — You draw X cards and lose X li
 			<text>Trample
 Whenever Mammon performs, create two Treasure tokens and draw two cards. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)
 At the beginning of each combat, untap all creatures you control.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/10.png" num="197">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/10.png" num="196">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -212,7 +212,7 @@ At the beginning of each combat, untap all creatures you control.</text>
 		<card>
 			<name>Let the Slaughter Begin</name>
 			<text>Untap all creatures. Creatures you control gain first strike, trample, deathtouch, and haste until end of turn. Creatures your opponents control lose indestructible until end of turn and must block this turn if able.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/11.png" num="83">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/11.png" num="82">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -229,7 +229,7 @@ At the beginning of each combat, untap all creatures you control.</text>
 			<name>Jovial Jester</name>
 			<text>At the beginning of your first main phase, add one mana of any color.
 Whenever this creature performs, draw a card. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/12.png" num="193">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/12.png" num="192">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -264,7 +264,7 @@ Counter target spell with mana value 1 plus X or less.</text>
 			<name>Exuberant Bombardier</name>
 			<text>When this creature enters, return target artifact card from your graveyard to your hand.
 When this creature attacks, you may activate an ability of target artifact you control without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/14.png" num="185">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/14.png" num="184">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -300,7 +300,7 @@ When this creature deals combat damage to a player, if it has two or more combat
 		<card>
 			<name>Double or Nothing</name>
 			<text>Exile target spell you control, then flip a coin. If you win the flip, copy it twice. You may cast the copies without paying their mana costs. (Copies of a permanent spell enter as tokens.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/16.png" num="104">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/16.png" num="103">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -331,7 +331,7 @@ When this creature deals combat damage to a player, if it has two or more combat
 		<card>
 			<name>Laugh it Up</name>
 			<text>Exile target creature.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/18.png" num="82">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/18.png" num="81">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -347,10 +347,10 @@ When this creature deals combat damage to a player, if it has two or more combat
 		<card>
 			<name>Gonna Make You Wish That</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Reprise {6}{R}{G} (You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
-II — • {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
-III — •  2G — Return up to X permanent cards from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/19.png" num="189">HUV</set>
+I — Reprise {6}{R}{G} (You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
+II — • I&apos;d Stayed Gone {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
+III — • You&apos;d Stayed Gone 2G — Return up to X permanent cards from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/19.png" num="188">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -366,7 +366,7 @@ III — •  2G — Return up to X permanent cards from your graveyard to your h
 		<card>
 			<name>When I Think About The Future</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III — Reprise {5}{W}{U}{B}{R}{G} (You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
+I, II, III — Reprise {5}{W}{U}{B}{R}{G} (You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 • I See A Better Place {W} — Create X X/X white Demon creature tokens.
 • You&apos;ll Never Fill Your Cup {1}{R} — Draw X cards, then discard X cards.
 • Don&apos;t Break Up The Band {2}{G} — Creatures you control get +X/+X until end of turn. Untap them.
@@ -392,7 +392,7 @@ No One Gets to Live {1}{B} — All creatures get -1/-1 until end of turn.</text>
 			<text>Defender, reach
 When this creature enters, gain control of all Equipment, then attach them to this creature.
 Whenever a creature attacks you, this creature fights it.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/21.png" num="103">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/21.png" num="102">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ Whenever a creature attacks you, this creature fights it.</text>
 		<card>
 			<name>Next To Die</name>
 			<text>Target creature gets -10/-10 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/22.png" num="86">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/22.png" num="85">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -427,7 +427,7 @@ Whenever a creature attacks you, this creature fights it.</text>
 			<text>Flying, indestructible, haste
 Creatures your opponents control with mana value four or less are Cowards with base power and toughness 1/1.
 Cowards can&apos;t block Warriors.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/23.png" num="165">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/23.png" num="164">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -444,7 +444,7 @@ Cowards can&apos;t block Warriors.</text>
 		<card>
 			<name>Make a Deal</name>
 			<text>Reveal a card you own from outside the game, then target opponent may accept. If they do, you may play that card without paying its mana cost, then that opponent controls your next turn. If they don&apos;t accept, you draw three cards and lose 3 life.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/24.png" num="84">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/24.png" num="83">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -460,7 +460,7 @@ Cowards can&apos;t block Warriors.</text>
 		<card>
 			<name>You&apos;re Sloppy</name>
 			<text>Create four 1/1 black Incarnation creature tokens.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/25.png" num="98">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/25.png" num="97">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,7 +512,7 @@ When this creature enters, you may search your library for up to three cards nam
 			<text>Flying
 When this Vehicle enters, create eight 1/1 colorless Egg artifact creature tokens.
 Crew 8 (Tap any number of creatures you control with total power 8 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/28.png" num="177">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/28.png" num="176">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -531,7 +531,7 @@ Crew 8 (Tap any number of creatures you control with total power 8 or more: This
 			<text>Flying
 Whenever another legendary Demon you control enters, unchain Razzle &amp; Dazzle
 Unchained — This creature gets +4/+4</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/29.png" num="119">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/29.png" num="118">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -549,7 +549,7 @@ Unchained — This creature gets +4/+4</text>
 			<name>Trap Under Rubble</name>
 			<text>Enchant creature.
 Enchanted creature can&apos;t attack or block and has &quot;{T}: Destroy Trap Under Rubble. This creature gets -5/-5 until end of turn.&quot; and loses all other abilities.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/30.png" num="217">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/30.png" num="216">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -581,7 +581,7 @@ Enchanted creature can&apos;t attack or block and has &quot;{T}: Destroy Trap Un
 		<card>
 			<name>You&apos;re In MY House!</name>
 			<text>You&apos;re In MY House! deals 666 damage to target non-Demon creature you don&apos;t control. That creature loses indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/32.png" num="131">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/32.png" num="130">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -598,7 +598,7 @@ Enchanted creature can&apos;t attack or block and has &quot;{T}: Destroy Trap Un
 			<name>Sir Pentious, Mastercraft Inventor</name>
 			<text>When Sir Pentious enters, search your library for an artifact card, reveal it, put it into your hand, then shuffle.
 {U}{R}, {T}, Sacrifice an artifact: Draw cards equal to the sacrificed artifact&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/33.png" num="210">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/33.png" num="209">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -714,7 +714,7 @@ Enchanted creature has lifelink</text>
 		<card>
 			<name>The Fruit Of Knowledge</name>
 			<text>{2}, {T}, Sacrifice this artifact: Search your library for a card, put it into your hand, then shuffle. You gain 3 life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/40.png" num="78">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/40.png" num="77">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -730,7 +730,7 @@ Enchanted creature has lifelink</text>
 		<card>
 			<name>Nifty, Queen of Filth</name>
 			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 green and black Insect creature token. Then if you have more life than target opponent, you lose 1 life and create a 1/1 black Rat creature token.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/41.png" num="87">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/41.png" num="86">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -748,7 +748,7 @@ Enchanted creature has lifelink</text>
 			<name>Voxtech™ Voyarscope</name>
 			<text>Flying
 When this creature deals combat damage to a player, look at that players hand, then scry 1.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/42.png" num="64">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/42.png" num="63">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -766,7 +766,7 @@ When this creature deals combat damage to a player, look at that players hand, t
 			<name>Media Mob</name>
 			<text>Vigilance
 When this creature enters, create a Clue token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/43.png" num="153">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/43.png" num="152">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -801,7 +801,7 @@ You control enchanted creature.</text>
 			<name>Voxtech™ Intern</name>
 			<text>Artifact spells you cast cost {1} less to cast.
 Activated abilities of artifacts you control cost {1} less to activate.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/45.png" num="63">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/45.png" num="62">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -834,7 +834,7 @@ Equip {1}</text>
 		<card>
 			<name>Adorable Companion</name>
 			<text>Tap two untapped creatures you control: Target player gains 3 life, then each other player draws a card. Put two +1/+1 counters on this creature.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/47.png" num="132">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/47.png" num="131">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -852,7 +852,7 @@ Equip {1}</text>
 			<name>Gravity</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Repeat the following X times: Exile the top card of your library. If it&apos;s an Angel, put it onto your hand. You lose X life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/48.png" num="190">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/48.png" num="189">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -900,7 +900,7 @@ Draw X cards.</text>
 		<card>
 			<name>Skinflayer 11,000</name>
 			<text>{X}{X}{X}{R}{R}, {T}: This artifact deals X+1 damage to any target X+1 times.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/51.png" num="122">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/51.png" num="121">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -969,7 +969,7 @@ Exile up to X target nonland permanents with mana value X or less.</text>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Until your next turn, whenever an opponent gains life, they lose that much life instead.
 Each player gains X life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/55.png" num="204">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/55.png" num="203">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1002,7 +1002,7 @@ Each player gains X life.</text>
 			<name>Tension</name>
 			<text>Target creature you control gets +2/+0 and gains menace until end of turn.
 Target creature you don&apos;t control can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/57.png" num="128">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/57.png" num="127">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1018,7 +1018,7 @@ Target creature you don&apos;t control can&apos;t block this turn.</text>
 		<card>
 			<name>Trust Exercises</name>
 			<text>Target creature you control fights target creature you don&apos;t control. Then if both creatures survived, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/58.png" num="218">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/58.png" num="217">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,7 +1069,7 @@ Return up to X target nonland permanents to their owners hands.</text>
 			<text>Whenever another creature enters, if its power is greater than Alastor&apos;s, unchain him.
 {B}{B}, Pay 2 life: Draw a card.
 Unchained — Alastor gets +3/+3 and has shadow and ward—Pay half your life rounded up. (This creature can block or be blocked by only creatures with shadow.)</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/61.png" num="67">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/61.png" num="66">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1088,7 +1088,7 @@ Unchained — Alastor gets +3/+3 and has shadow and ward—Pay half your life ro
 			<text>When Vox enters and at the beginning of your upkeep, put a propaganda counter on him. Then, gain control of target artifact or creature with mana value less than or equal to the number of propaganda counters on him.
 {3}{U}{U}: Unchain Vox.
 Unchained — Vox gets +1/+1 for each artifact you control.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/62.png" num="62">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/62.png" num="61">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1196,7 +1196,7 @@ Equip spider {2}</text>
 • Husk deals 2 damage to any target.
 • Husk gets +2/+0 and gains menace until end of turn.
 {U}, Sacrifice a Treasure: Draw a Card.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/68.png" num="191">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/68.png" num="190">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1213,7 +1213,7 @@ Equip spider {2}</text>
 		<card>
 			<name>Eat Lead</name>
 			<text>Eat Lead deals 3 damage to target creature.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/69.png" num="105">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/69.png" num="104">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1229,7 +1229,7 @@ Equip spider {2}</text>
 		<card>
 			<name>Magictastical Rubber Duck</name>
 			<text>Flying, haste</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/70.png" num="114">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/70.png" num="113">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1246,7 +1246,7 @@ Equip spider {2}</text>
 		<card>
 			<name>Ambition of a Dreamer</name>
 			<text>At the beginning of your upkeep, scry 2, then you may discard a card. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/71.png" num="166">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/71.png" num="165">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1263,7 +1263,7 @@ Equip spider {2}</text>
 			<name>Satan, Sin of Wrath</name>
 			<text>Flying, first strike, lifelink, menace, trample, haste
 Ward—Pay 6 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 6 life.)</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/72.png" num="208">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/72.png" num="207">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1297,7 +1297,7 @@ Search your library for X creature cards with mana value X or less, reveal them,
 		<card>
 			<name>Everyone, Twice</name>
 			<text>Target creature loses indestructible until end of turn. Each creature you control deals damage equal to their power to that creature twice.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/74.png" num="140">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/74.png" num="139">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1314,7 +1314,7 @@ Search your library for X creature cards with mana value X or less, reveal them,
 			<name>I&apos;d Like To Buy You A Drink</name>
 			<text>Each player creates a Food token for each creature they control. 
 If a player partakes next turn, draw a card. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/75.png" num="146">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/75.png" num="145">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1332,7 +1332,7 @@ If a player partakes next turn, draw a card. (At the beginning of the end step, 
 			<text>Artifact creatures you control have haste.
 Whenever you draw a card, create a 1/1 red Bird artifact creature token with flying.
 Whenever an artifact enters under your control, return target artifact card from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/76.png" num="195">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/76.png" num="194">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1350,7 +1350,7 @@ Whenever an artifact enters under your control, return target artifact card from
 			<name>Path To Redemption</name>
 			<text>As an additional cost to cast this spell, tap an untapped creature you control.
 Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/77.png" num="156">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/77.png" num="155">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1367,7 +1367,7 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
 			<name>Do What Was Required</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or pay 3 life.
 Destroy target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/78.png" num="73">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/78.png" num="72">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1404,7 +1404,7 @@ Choose X modes. You may choose the same mode more than once—
 			<name>Dramatic Revelation</name>
 			<text>As an additional cost to cast this spell, pay 3 life or sacrifice a creature.
 Target opponent reveals their hand. You may choose a nonland card from it. Exile that card. If you didn&apos;t choose a card this way, exile target card from that player&apos;s graveyard.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/80.png" num="74">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/80.png" num="73">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1520,7 +1520,7 @@ Equip {3}</text>
 			<name>Eat Shrapnel</name>
 			<text>Return up to three artifact cards with mana value 2 or less from your graveyard to your hand.
 You may activate an ability of an artifact you control once this turn without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/87.png" num="179">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/87.png" num="178">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1589,7 +1589,7 @@ Flying</text>
 			<name>The Weight of Thousands</name>
 			<text>Each player sacrifices a creature.
 You draw two cards and lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/91.png" num="97">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/91.png" num="96">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1790,7 +1790,7 @@ When this enchantment enters, tap all creatures and put a stun counter on them.<
 		<card>
 			<name>Joint Research Project</name>
 			<text>Create a Clue token and a Treasure token. Then you may sacrifice an artifact. If you do, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/103.png" num="192">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/103.png" num="191">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1806,7 +1806,7 @@ When this enchantment enters, tap all creatures and put a stun counter on them.<
 		<card>
 			<name>Big Roach</name>
 			<text>Whenever an opponent gains life, you draw a card and lose 1 life. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/104.png" num="174">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/104.png" num="173">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1824,7 +1824,7 @@ When this enchantment enters, tap all creatures and put a stun counter on them.<
 			<name>Pest Extermination</name>
 			<text>This spell deals 1 damage to target creature.
 Target creature you control gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/105.png" num="118">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/105.png" num="117">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1840,7 +1840,7 @@ Target creature you control gains menace until end of turn.</text>
 		<card>
 			<name>Airwaves at War</name>
 			<text>As this enchantment enters, choose Radio or Television.
-• Radio — At the beginning of your end step, create one 1/1 Black incarnation creature token.
+• Radio — At the beginning of your end step, create one 1/1 black Incarnation creature token.
 • Television — At the beginning of your upkeep, mill three cards. Return up to one artifact card from among them to your hand.</text>
 			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/106.png" num="228">HUV</set>
 			<prop>
@@ -1858,7 +1858,7 @@ Target creature you control gains menace until end of turn.</text>
 		<card>
 			<name>Snag</name>
 			<text>Target creature gets -2/-2 until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/107.png" num="93">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/107.png" num="92">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1874,7 +1874,7 @@ Target creature you control gains menace until end of turn.</text>
 		<card>
 			<name>Impact</name>
 			<text>Destroy target artifact, enchantment, or nonbasic land.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/108.png" num="147">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/108.png" num="146">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1890,7 +1890,7 @@ Target creature you control gains menace until end of turn.</text>
 		<card>
 			<name>Reinforcements Have Arrived</name>
 			<text>Look at the top six cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom in a random order.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/109.png" num="157">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/109.png" num="156">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1906,7 +1906,7 @@ Target creature you control gains menace until end of turn.</text>
 		<card>
 			<name>Spectral Knives</name>
 			<text>Reach, trample</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/110.png" num="124">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/110.png" num="123">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1925,7 +1925,7 @@ Target creature you control gains menace until end of turn.</text>
 			<text>Flash
 When this artifact enters, target creature you control gains hexproof until end of turn.
 {T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/111.png" num="152">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/111.png" num="151">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1960,7 +1960,7 @@ Draw a card.</text>
 			<name>Curious Cupple</name>
 			<text>Vigilance
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/113.png" num="136">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/113.png" num="135">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1995,7 +1995,7 @@ Draw a card.</text>
 			<name>Prick and Hatchet&apos;s Fued</name>
 			<text>At the beginning of combat on your turn, choose a combat ability. Target creature you control gains that ability until end of turn.
 Whenever a creature you control with two or more combat abilities attacks, create a 1/1 red and white Imp creature token with first strike that&apos;s tapped and attacking. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/115.png" num="205">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/115.png" num="204">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2012,7 +2012,7 @@ Whenever a creature you control with two or more combat abilities attacks, creat
 			<name>Bad With Us</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Draw 1 plus X cards. You may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/116.png" num="169">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/116.png" num="168">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2047,7 +2047,7 @@ When this creature enters, you gain 2 life and scry 2.</text>
 			<name>Reckless Guest</name>
 			<text>Lifelink
 This creature has haste as long as you control another creature with three or more combat abilities. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/118.png" num="206">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/118.png" num="205">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2064,7 +2064,7 @@ This creature has haste as long as you control another creature with three or mo
 		<card>
 			<name>Woefull Guest</name>
 			<text>When this creature enters, draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/119.png" num="65">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/119.png" num="64">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2082,7 +2082,7 @@ This creature has haste as long as you control another creature with three or mo
 			<name>I Brought Cookies!</name>
 			<text>When this enchantment enters, create a Food token.
 Whenever you partake, put a +1/+1 counter on target creature. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/120.png" num="145">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/120.png" num="144">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2098,7 +2098,7 @@ Whenever you partake, put a +1/+1 counter on target creature. (At the beginning 
 		<card>
 			<name>Gift Basket</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life, draw a card, add one mana of any color, and create a 2/2 green Bear Angel creature token.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/121.png" num="142">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/121.png" num="141">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2114,7 +2114,7 @@ Whenever you partake, put a +1/+1 counter on target creature. (At the beginning 
 		<card>
 			<name>Lucifer&apos;s Radiance</name>
 			<text>Repeat the following eight times: This spell deals 1 damage to any non-Demon target.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/122.png" num="112">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/122.png" num="111">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2130,7 +2130,7 @@ Whenever you partake, put a +1/+1 counter on target creature. (At the beginning 
 		<card>
 			<name>Flame Serpant</name>
 			<text>Flying</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/123.png" num="108">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/123.png" num="107">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2181,7 +2181,7 @@ Whenever you partake, put a +1/+1 counter on target creature. (At the beginning 
 			<name>Vox Dei</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Gain control of each creature with mana value 1 plus X or less. Exile Vox Dei.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/126.png" num="61">HUV</set>
+			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/126.png" num="3">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2198,7 +2198,7 @@ Gain control of each creature with mana value 1 plus X or less. Exile Vox Dei.</
 			<name>Orchard Dryad</name>
 			<text>Reach
 {2}, {T}: Create a Food token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/127.png" num="155">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/127.png" num="154">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2215,7 +2215,7 @@ Gain control of each creature with mana value 1 plus X or less. Exile Vox Dei.</
 		<card>
 			<name>Scream Lightning</name>
 			<text>This spell deals 3 damage to any target. Draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/128.png" num="209">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/128.png" num="208">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2267,7 +2267,7 @@ When this artifact leaves the battlefield, return the exiled card to the battlef
 			<name>Brighter</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 This spell deals 1 plus X damage to any target.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/131.png" num="102">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/131.png" num="101">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2334,7 +2334,7 @@ When this creature enters, tap up to one target creature an opponent controls.</
 			<name>Vox&apos;s Ultimatum</name>
 			<text>Whenever one or more creatures you control deal combat damage to a player, exile the top card of your library. Until the end of your next turn, you may play it.
 Whenever you cast a spell from exile, this enchantment deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/135.png" num="130">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/135.png" num="129">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2366,7 +2366,7 @@ Whenever you cast a spell from exile, this enchantment deals 1 damage to each op
 		<card>
 			<name>Exploit Openings</name>
 			<text>Creatures you control get +1/+0 and gain trample and haste until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/137.png" num="107">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/137.png" num="106">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2382,7 +2382,7 @@ Whenever you cast a spell from exile, this enchantment deals 1 damage to each op
 		<card>
 			<name>Spike Wave</name>
 			<text>All creatures get -2/-2 until end of turn. You gain 1 life for each creature that died this way.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/138.png" num="95">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/138.png" num="94">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2414,7 +2414,7 @@ Whenever you cast a spell from exile, this enchantment deals 1 damage to each op
 		<card>
 			<name>Shadow of Evil</name>
 			<text>Each player sacrifices 6 permanents, discards 6 cards, and loses 6 life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/140.png" num="91">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/140.png" num="90">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2446,7 +2446,7 @@ Whenever you cast a spell from exile, this enchantment deals 1 damage to each op
 		<card>
 			<name>Reduce to Scrap</name>
 			<text>Destroy target artifact. Create a Clue token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/142.png" num="120">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/142.png" num="119">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2463,7 +2463,7 @@ Whenever you cast a spell from exile, this enchantment deals 1 damage to each op
 			<name>Supportive Mantis</name>
 			<text>Reach
 When this creature enters, put a +1/+1 counter on a creature you control.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/143.png" num="214">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/143.png" num="213">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2480,7 +2480,7 @@ When this creature enters, put a +1/+1 counter on a creature you control.</text>
 		<card>
 			<name>Spindle Horse</name>
 			<text>When this creature enters, each player gains 2 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/144.png" num="158">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/144.png" num="157">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2499,7 +2499,7 @@ When this creature enters, put a +1/+1 counter on a creature you control.</text>
 			<text>Reach, deathtouch
 If an opponent gains life, they lose twice that much life at the beginning of the next end step.
 Whenever a creature dies, its controller gains 1 life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/145.png" num="167">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/145.png" num="166">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2519,7 +2519,7 @@ Whenever a creature dies, its controller gains 1 life.</text>
 Whenever you sacrifice a Clue, choose one—
 • Tap target creature and put a stun counter on it.
 • Counter target spell unless its controller pays {2}.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/146.png" num="170">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/146.png" num="169">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2555,7 +2555,7 @@ Whenever you sacrifice a Clue, choose one—
 			<text>Flying
 As long as you have 10 or less life, Lute has indestructible and haste.
 {B}, Pay 2 life: Target creature gets -1/-1 until end of turn.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/148.png" num="196">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/148.png" num="195">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2608,7 +2608,7 @@ Abel can&apos;t attack or block unless you control another Angel.</text>
 			<name>Spiteful Oligarch</name>
 			<text>Menace
 When this creature deals combat damage to a player, create a treasure token. If it has two or more combat abilities, draw a card, then discard a card. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/151.png" num="125">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/151.png" num="124">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2625,7 +2625,7 @@ When this creature deals combat damage to a player, create a treasure token. If 
 		<card>
 			<name>Rosie, Delightful Cannibal</name>
 			<text>Whenever a player partakes, put a +1/+1 counter on each creature you control and untap them. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/152.png" num="207">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/152.png" num="206">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2662,7 +2662,7 @@ Creatures with silk counters don&apos;t untap during their controller&apos;s unt
 			<name>Valintino, Vice King</name>
 			<text>Whenever a creature an opponent owns dies, you may pay 1 life. If you do, create a Treasure token.
 {2}{B}, Sacrifice a creature: Return target creature card from an opponent&apos;s graveyard to the battlefield under your control. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/154.png" num="96">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/154.png" num="95">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2680,7 +2680,7 @@ Creatures with silk counters don&apos;t untap during their controller&apos;s unt
 			<name>KeeKee, Beloved Keeper</name>
 			<text>Ward {1}
 At the beginning of your first main phase, add one mana of any color.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/155.png" num="148">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/155.png" num="147">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2699,7 +2699,7 @@ At the beginning of your first main phase, add one mana of any color.</text>
 			<text>Haste
 Whenever Blitzo attacks, you may attach target Equipment to him.
 When Blitzo deals combat damage to a player, exile the top X cards of your library, where X is the number of combat abilities he has. You may play those cards until your next turn. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/156.png" num="101">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/156.png" num="100">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2718,7 +2718,7 @@ When Blitzo deals combat damage to a player, exile the top X cards of your libra
 			<text>First strike, trample
 Whenever another creature you control gains a combat ability, put a +1/+1 counter on that creature.
 Whenever a creature you control with four or more combat abilities attacks, untap it. After this phase, there is an additional combat phase. This ability triggers only once each turn. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/157.png" num="115">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/157.png" num="114">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2735,7 +2735,7 @@ Whenever a creature you control with four or more combat abilities attacks, unta
 		<card>
 			<name>Moxxie, Tactical Expert</name>
 			<text>At the beginning of combat on your turn, another target creature you control gets +1/+1 and gains and your choice of first strike, lifelink, trample, or haste until end of turn.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/158.png" num="201">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/158.png" num="200">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2754,7 +2754,7 @@ Whenever a creature you control with four or more combat abilities attacks, unta
 			<text>Reach, trample
 Whenever one or more tokens enter the battlefield under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
 Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/159.png" num="162">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/159.png" num="161">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2771,7 +2771,7 @@ Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
 		<card>
 			<name>Shameless Slug</name>
 			<text>Whenever this creature attacks, you may pay 1 life. If you do, each opponent loses 1 life and this creature gains menace.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/160.png" num="92">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/160.png" num="91">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2788,7 +2788,7 @@ Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
 		<card>
 			<name>Velvette&apos;s Influencer</name>
 			<text>Whenever Velvette&apos;s Influencer attacks, if you control another attacking creature, it gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/161.png" num="129">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/161.png" num="128">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2805,7 +2805,7 @@ Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
 		<card>
 			<name>Cantankerous Cannibal</name>
 			<text>Whenever another creature dies, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/162.png" num="69">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/162.png" num="68">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2822,7 +2822,7 @@ Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
 		<card>
 			<name>Funeral Caterer</name>
 			<text>When this creature enters, you lose 1 life and draw a card. Create a Food token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/163.png" num="79">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/163.png" num="78">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2840,7 +2840,7 @@ Whenever this creature attacks, create a Food, Clue, or Treasure token.</text>
 			<name>Frightened Sinner</name>
 			<text>Haste
 Whenever a creature with power 4 or greater enters under an opponent&apos;s control, shuffle this creature into its owner&apos;s library.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/164.png" num="109">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/164.png" num="108">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2875,7 +2875,7 @@ Whenever a creature with power 4 or greater enters under an opponent&apos;s cont
 			<name>Maestro, Grand Conductor</name>
 			<text>Whenever you cast a spell with musical, if X is 2 or greater, draw two card.
 Whenever you cast a spell with musical, if X is 5 or greater, untap all lands you control.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/166.png" num="151">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/166.png" num="150">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2893,7 +2893,7 @@ Whenever you cast a spell with musical, if X is 5 or greater, untap all lands yo
 			<name>Thorned Menace</name>
 			<text>First strike, menace
 When this creature deals combat damage to a player, it deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/167.png" num="216">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/167.png" num="215">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2911,7 +2911,7 @@ When this creature deals combat damage to a player, it deals 1 damage to any tar
 			<name>Tavern Brawler</name>
 			<text>Trample, haste
 Whenever Hatchet attacks, another target creature you control gains menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/168.png" num="215">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/168.png" num="214">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2930,7 +2930,7 @@ Whenever Hatchet attacks, another target creature you control gains menace until
 			<text>Haste
 Whenever you sacrifice an artifact, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Whenever you cast your second noncreature spell each turn, Loona gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/169.png" num="121">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/169.png" num="120">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2947,7 +2947,7 @@ Whenever you cast your second noncreature spell each turn, Loona gets +2/+0 unti
 		<card>
 			<name>Verosika, Pop Icon</name>
 			<text>Whenever one or more creatures you control perform, put a +1/+1 counter on those creatures and draw a card. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/170.png" num="163">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/170.png" num="162">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2965,7 +2965,7 @@ Whenever you cast your second noncreature spell each turn, Loona gets +2/+0 unti
 			<name>Fizzarolli, Headline Act</name>
 			<text>Whenever you cast an instant or sorcery spell, tap target creature, then untap target creature.
 Whenever one or more creatures you control perform, Fizzarolli can&apos;t be blocked this turn. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/171.png" num="187">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/171.png" num="186">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3000,7 +3000,7 @@ Once per turn, you may cast a spell from your hand with mana value less than or 
 			<name>You Will Be OK</name>
 			<text>Musical (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 Up to X target creatures phase out.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/173.png" num="66">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/173.png" num="65">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3084,7 +3084,7 @@ Up to X target creatures phase out.</text>
 I — Reprise {3}{U}{B} (You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
 II — • You Ain&apos;t Won Yet {B} — Target creature gets -X/-X until end of turn. You gain X life.
 III — • You Are My Pet {1}{U} — Tap target creature and put X stun counters on it.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/178.png" num="178">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/178.png" num="177">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3118,10 +3118,10 @@ III — • You Are My Pet {1}{U} — Tap target creature and put X stun counter
 		<card>
 			<name>We Can Do This</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Reprise {4}{W}{W}{G}{G} (You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
-• There&apos;s Still Damage To Be Undone {1}{G} — Mill X+4 cards, then return up to X+1 land cards from your graveyard to your hand.
+I — Reprise {4}{W}{W}{G}{G} (You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
+• There&apos;s Still Damage To Be Undone {1}{G} — Mill 3 plus X cards, then return up to X land cards from your graveyard to your hand.
 II — • That Is Not Where This Ends {3}{W}{W} — Return up to X target creature cards with mana value X or less from your graveyard to the battlefield.
-III — • We&apos;ll Be Atop The Heap {2}{G} — Distribute X+3 +1/+1 counters among creatures you control.</text>
+III — • We&apos;ll Be Atop The Heap {2}{G} — Distribute 2 plus X +1/+1 counters among creatures you control.</text>
 			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/180.png" num="221">HUV</set>
 			<prop>
 				<layout>normal</layout>
@@ -3208,7 +3208,7 @@ Sacrifice this creature: Up to three target creatures gains indestructible until
 		<card>
 			<name>DHORKS Investigator</name>
 			<text>When this creature becomes equipped for the first time each turn, each opponent loses 1 life and you create a Clue token.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/185.png" num="72">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/185.png" num="71">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3226,7 +3226,7 @@ Sacrifice this creature: Up to three target creatures gains indestructible until
 			<name>Exorcist Striker</name>
 			<text>Menace
 As long as this creature is equipped, it has first strike.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/186.png" num="76">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/186.png" num="75">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3243,7 +3243,7 @@ As long as this creature is equipped, it has first strike.</text>
 		<card>
 			<name>Cannibal Gourmond</name>
 			<text>Whenever an opponent partakes, that player loses 3 life. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/187.png" num="68">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/187.png" num="67">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3261,7 +3261,7 @@ As long as this creature is equipped, it has first strike.</text>
 			<name>Pinkie Fingers</name>
 			<text>When this artifact enters, each opponent discards a card.
 {2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/188.png" num="89">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/188.png" num="88">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3277,7 +3277,7 @@ As long as this creature is equipped, it has first strike.</text>
 		<card>
 			<name>Gluttonous Patrons</name>
 			<text>Whenever an opponent partakes, that player loses 2 life. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/189.png" num="81">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/189.png" num="80">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3311,7 +3311,7 @@ As long as this creature is equipped, it has first strike.</text>
 		<card>
 			<name>Demon Brute</name>
 			<text>Whenever you partake, this creature gets +2/+2 until end of turn. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/191.png" num="138">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/191.png" num="137">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3327,8 +3327,8 @@ As long as this creature is equipped, it has first strike.</text>
 		</card>
 		<card>
 			<name>Rosie&apos;s Waiters</name>
-			<text>Whenever a Food enters under your control and whenever you gain life, each opponent loses 1 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/192.png" num="90">HUV</set>
+			<text>Whenever you partake, each opponent loses 1 life. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/192.png" num="89">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3347,7 @@ As long as this creature is equipped, it has first strike.</text>
 			<text>Menace
 When this creature enters, create a colorless artifact Equipment token named Pistol. It has &quot;equipped creature gets +1/+1.&quot; and &quot;Equip {1}.&quot;
 Whenever this creature attacks, if it&apos;s equipped, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/193.png" num="85">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/193.png" num="84">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3383,7 +3383,7 @@ Whenever an equipped creature you control deals combat damage to a player, put a
 			<name>Exorcist Bloodforger</name>
 			<text>Whenever a creature dies, put a forge counter on target equipment you control.
 Equipment you control have &quot;Equipped creature gets +1/+1 for each forge counter on this artifact.&quot;</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/195.png" num="180">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/195.png" num="179">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3400,7 +3400,7 @@ Equipment you control have &quot;Equipped creature gets +1/+1 for each forge cou
 		<card>
 			<name>Brute Force</name>
 			<text>Brute Force deals 1 damage to each attacking creature for each nontoken artifact you control.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/196.png" num="175">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/196.png" num="174">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3417,7 +3417,7 @@ Equipment you control have &quot;Equipped creature gets +1/+1 for each forge cou
 			<name>Exorcist Headcleaver</name>
 			<text>Flying
 As long as this creature is equipped, it gets +2/+0 and has ward {1}.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/197.png" num="182">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/197.png" num="181">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3435,7 +3435,7 @@ As long as this creature is equipped, it gets +2/+0 and has ward {1}.</text>
 			<name>Exorcist Painblade</name>
 			<text>Flying
 This creature gets +1/+1 for each other equipped attacking creature you control.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/198.png" num="183">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/198.png" num="182">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3452,7 +3452,7 @@ This creature gets +1/+1 for each other equipped attacking creature you control.
 		<card>
 			<name>Angelic Boot Camp</name>
 			<text>Equipped creatures you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/199.png" num="168">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/199.png" num="167">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3469,7 +3469,7 @@ This creature gets +1/+1 for each other equipped attacking creature you control.
 			<name>Exorcist Butcher</name>
 			<text>Flying, haste
 When this creature deals combat damage to a player, you may pay X life. If you do, destroy target creature that player controls with power X.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/200.png" num="181">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/200.png" num="180">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3487,7 +3487,7 @@ When this creature deals combat damage to a player, you may pay X life. If you d
 			<name>Striker, Hired Assassin</name>
 			<text>Double strike, trample
 When striker deals combat damage to a player for the first time each turn, creatures you control get +2/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/201.png" num="213">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/201.png" num="212">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3504,7 +3504,7 @@ When striker deals combat damage to a player for the first time each turn, creat
 		<card>
 			<name>Spin Maneuver</name>
 			<text>Target creature gets +2/+0, first strike, and trample until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/202.png" num="211">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/202.png" num="210">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3520,7 +3520,7 @@ When striker deals combat damage to a player for the first time each turn, creat
 		<card>
 			<name>Morphine</name>
 			<text>Target creature you control gains double strike and trample until end of turn. Prevent all combat damage that would be dealt to it this turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/203.png" num="200">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/203.png" num="199">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3574,7 +3574,7 @@ When this creature attacks, create X 1/1 red and white Imp creature tokens with 
 Discard this card: Tap target creature and put a stun counter on it.
 When this creature enters, tap up to three target creatures and put stun counters on them.
 Whenever this creature deals combat damage to a player, tap up to one target permanent and put a stun counter on it.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/206.png" num="220">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/206.png" num="219">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3592,7 +3592,7 @@ Whenever this creature deals combat damage to a player, tap up to one target per
 			<name>Cruel Anchorwoman</name>
 			<text>At the beginning of your upkeep, each player gains 2 life.
 Whenever an opponent partakes, that player sacrifices a creature unless they pay 3 life. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/207.png" num="176">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/207.png" num="175">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3609,7 +3609,7 @@ Whenever an opponent partakes, that player sacrifices a creature unless they pay
 		<card>
 			<name>Melancholy Clown</name>
 			<text>Whenever one or more creatures you control perform, put a +1/+1 counter on this creature and each opponent mills 2 cards. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/208.png" num="199">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/208.png" num="198">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3641,7 +3641,7 @@ Equip {4}</text>
 		<card>
 			<name>Electric Eels</name>
 			<text>Whenever a nontoken artifact enters under your control, this creature deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/210.png" num="106">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/210.png" num="105">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3658,7 +3658,7 @@ Equip {4}</text>
 		<card>
 			<name>Deranged Husband</name>
 			<text>This creature has deathtouch as long as its equipped.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/211.png" num="71">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/211.png" num="70">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3676,7 +3676,7 @@ Equip {4}</text>
 			<name>Hellborn Pitcher</name>
 			<text>Reach, deathtouch
 Whenever a creature blocked by this creature dies, create a Food token at the beginning of your next end step.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/212.png" num="143">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/212.png" num="142">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3693,7 +3693,7 @@ Whenever a creature blocked by this creature dies, create a Food token at the be
 		<card>
 			<name>LooLoo Mascot</name>
 			<text>This creature can&apos;t be blocked by creatures with power 2 or less.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/213.png" num="150">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/213.png" num="149">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3725,7 +3725,7 @@ Whenever a creature blocked by this creature dies, create a Food token at the be
 		<card>
 			<name>LooLoo Band</name>
 			<text>Whenever this creature performs, put a +1/+1 counter on it. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/215.png" num="149">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/215.png" num="148">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3743,7 +3743,7 @@ Whenever a creature blocked by this creature dies, create a Food token at the be
 			<name>Copyright Infringement</name>
 			<text>Lands you control have &quot;{T}: Add one mana of any color.&quot;
 Whenever you cast a creature spell, you may discard a creature card and pay that spell&apos;s mana cost. If you do, copy that spell. (It enters as a token.)</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/216.png" num="133">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/216.png" num="132">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3759,7 +3759,7 @@ Whenever you cast a creature spell, you may discard a creature card and pay that
 		<card>
 			<name>LooLooLand Carnie</name>
 			<text>When this creature enters, create a Treasure token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/217.png" num="111">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/217.png" num="110">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3827,7 +3827,7 @@ Enchanted creature is an artifact. (It&apos;s no longer a creature)</text>
 		<card>
 			<name>Tour Guide</name>
 			<text>When this creature enters, look at the top three cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom in a random order.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/221.png" num="160">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/221.png" num="159">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3844,7 +3844,7 @@ Enchanted creature is an artifact. (It&apos;s no longer a creature)</text>
 		<card>
 			<name>Elderly Oligarch</name>
 			<text>When this creature dies, create two Treasure tokens.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/222.png" num="75">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/222.png" num="74">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3861,7 +3861,7 @@ Enchanted creature is an artifact. (It&apos;s no longer a creature)</text>
 		<card>
 			<name>Fluffy Friends</name>
 			<text>When this creature enters, you gain 2 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/223.png" num="141">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/223.png" num="140">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3897,7 +3897,7 @@ Creatures entering or dying don&apos;t cause abilities to trigger.</text>
 			<name>Lyle, Robotic Oligarch</name>
 			<text>Triggered abilities of artifacts you control trigger an additional time.
 Whenever an artifact source you control would deal damage, it deals double that damage instead.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/225.png" num="113">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/225.png" num="112">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3915,7 +3915,7 @@ Whenever an artifact source you control would deal damage, it deals double that 
 			<name>Hellhog</name>
 			<text>Hexproof
 When this creature dies, create a Food token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/226.png" num="144">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/226.png" num="143">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3949,7 +3949,7 @@ When this creature dies, create a Food token.</text>
 		<card>
 			<name>Pain Game Rivalry</name>
 			<text>Creatures you control get +2/+1 and gain trample until end of turn. Creatures your opponents control must block this turn if able.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/228.png" num="117">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/228.png" num="116">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3965,7 +3965,7 @@ When this creature dies, create a Food token.</text>
 		<card>
 			<name>Cursed Moon</name>
 			<text>Whenever a player taps a nonbasic land, that land&apos;s controller loses 2 life.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/229.png" num="70">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/229.png" num="69">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4084,7 +4084,7 @@ Equip {1}</text>
 		<card>
 			<name>Extermination Salvager</name>
 			<text>When this creature attacks, exile target creature card from a graveyard. Its owner gains 3 life.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/236.png" num="77">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/236.png" num="76">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4119,7 +4119,7 @@ Equip {1}</text>
 			<name>Nightlife Enjoyer</name>
 			<text>Menace
 When this creature attacks with at least one other creature with a combat ability, this creature gets +2/+0 until end of turn. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/238.png" num="116">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/238.png" num="115">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4138,7 +4138,7 @@ When this creature attacks with at least one other creature with a combat abilit
 			<text>Trample
 When this creature enters, each player creates a Food token.
 At the beginning of combat on your turn, target opponent may sacrifice a Food. If they do, tap this creature.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/239.png" num="135">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/239.png" num="134">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4173,7 +4173,7 @@ Enchanted creature can&apos;t attack or block.</text>
 			<name>Alastor&apos;s Emergence</name>
 			<text>Gain control of target creature until end of turn. Untap it. It gets +2/+0 and gains haste until end of turn.
 When that creature attacks this turn, it deals damage equal to its power to each other creature.</text>
-			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/241.png" num="99">HUV</set>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/241.png" num="98">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4221,7 +4221,7 @@ At the beginning of your second main phase, if a creature left the battlefield t
 		<card>
 			<name>Anxious Model</name>
 			<text>When this creature enters, draw two cards, then discard two cards unless you discard an artifact card.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/244.png" num="100">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/244.png" num="99">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4275,7 +4275,7 @@ When this creature enters, search your library for a basic Plains card, reveal i
 I — Draw three cards, then put two cards from your hand on top of your library. You may shuffle.
 II — This enchantment gains &quot;The next spell with musical you cast can be cast as though X were three greater.&quot;
 III — At the beginning of combat this turn, untap all creatures you control, then tap that many target creatures your opponents control.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/247.png" num="198">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/247.png" num="197">HUV</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4294,7 +4294,7 @@ III — At the beginning of combat this turn, untap all creatures you control, t
 I — Return up to three artifact cards from your graveyard to your hand.
 II — Whenever a nontoken artifact you control enters this turn, draw a card.
 III — Until end of turn, activated abilities of artifacts you control cost {6} less to activate.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/248.png" num="219">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/248.png" num="218">HUV</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4313,7 +4313,7 @@ III — Until end of turn, activated abilities of artifacts you control cost {6}
 I, II — Create two 1/1 red and white Imp creature tokens with first strike.
 III — Creatures you control gain menace and get +1/+1 for each combat ability they have until end of turn. (Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)
 ​</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/249.png" num="203">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/249.png" num="202">HUV</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4332,7 +4332,7 @@ III — Creatures you control gain menace and get +1/+1 for each combat ability 
 I — Create two 1/1 black Demon creature tokens, then each opponent sacrifices a nontoken creature.
 II — This enchantment gains &quot;Whenever an opponent gains life, that player loses 2 life for each creature you control.&quot;
 III — Exile all creature cards from all graveyards. Each player gains 3 life for each card they own exiled this way.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/250.png" num="188">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/250.png" num="187">HUV</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4351,7 +4351,7 @@ III — Exile all creature cards from all graveyards. Each player gains 3 life f
 I — Create two colorless Equipment artifact tokens named Angelic Battleaxe with &quot;Equipped creature gets +2/+1 and has menace&quot; and &quot;Equip {1}&quot;
 II — Angel spells you cast cost {W} less and 2 life more to cast until end of turn.
 III — Whenever a creature dies during combat this turn, you draw a card and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/251.png" num="186">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/251.png" num="185">HUV</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4386,7 +4386,7 @@ Each player may only cast one spell each turn, and opponents can&apos;t cast spe
 			<name>Stolas, Wrathwing Sovereign</name>
 			<text>At the beginning of combat on your turn, target opponent may have you gain control of a nontoken artifact that player controls. If they don&apos;t, unchain Stolas
 Unchained—Stolas gets +3/+3 and has flying, trample, and haste.</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/253.png" num="127">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/253.png" num="126">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4450,7 +4450,7 @@ Unchained—Stolas gets +3/+3 and has flying, trample, and haste.</text>
 		<card>
 			<name>Stage Controller</name>
 			<text>Whenever an artifact you control leaves the battlefield, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/257.png" num="126">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/257.png" num="125">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4502,7 +4502,7 @@ Enchanted creature gets +1/+0 and has first strike.</text>
 			<name>Snotty Socalite</name>
 			<text>Menace
 When this creature enters, if an opponent controls an artifact, creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/260.png" num="123">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/260.png" num="122">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4520,7 @@ When this creature enters, if an opponent controls an artifact, creatures you co
 			<name>Dazzled Stargazer</name>
 			<text>Whenever a creature performs, its controller gains 3 life. (Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)
 Whenever a player partakes, put a +1/+1 counter on this creature. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/261.png" num="137">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/261.png" num="136">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4539,7 +4539,7 @@ Whenever a player partakes, put a +1/+1 counter on this creature. (At the beginn
 			<text>Trample
 When this creature attacks, defending player gains 3 life.
 Whenever an opponent partakes, put two +1/+1 counters on this creature. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/262.png" num="164">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/262.png" num="163">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4556,7 +4556,7 @@ Whenever an opponent partakes, put two +1/+1 counters on this creature. (At the 
 		<card>
 			<name>Gluttonous Hellhound</name>
 			<text>When this creature enters, if an opponent has more life than their starting life total, create two 1/1 black and green Insect creature tokens.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/263.png" num="80">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/263.png" num="79">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4573,7 +4573,7 @@ Whenever an opponent partakes, put two +1/+1 counters on this creature. (At the 
 		<card>
 			<name>Overstuffed Glutton</name>
 			<text>When this creature enters, you may pay 3 life or sacrifice a Food. When you do, destroy target creature an opponent controls. Its controller gains 3 life.</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/264.png" num="88">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/264.png" num="87">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4609,7 +4609,7 @@ Sacrifice this creature: Target legendary creature you control gains indestructi
 			<name>Knife Tosser</name>
 			<text>First strike
 At the beginning of your upkeep, create a colorless artifact token named Knife with &quot;{R}, Sacrifice this artifact: It deals 1 damage to any target.&quot;</text>
-			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/266.png" num="110">HUV</set>
+			<set rarity="uncommon" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/266.png" num="109">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4696,7 +4696,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Street Peddler</name>
 			<text>When this creature becomes blocked, that creature&apos;s controller may pay {1}. If they don&apos;t, create a tapped Treasure token.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/271.png" num="212">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/271.png" num="211">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4713,7 +4713,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/272.png" num="280">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/272.png" num="281">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4728,7 +4728,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/273.png" num="279">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/273.png" num="280">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4743,7 +4743,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/274.png" num="276">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/274.png" num="277">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4758,7 +4758,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/275.png" num="278">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/275.png" num="279">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4773,7 +4773,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/276.png" num="277">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/276.png" num="278">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4788,7 +4788,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Sopping Scarecrow</name>
 			<text>Whenever an opponent gains life, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/277.png" num="94">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/277.png" num="93">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4805,7 +4805,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Downcast Patron</name>
 			<text>{1}{G}: This creature gets +2/+0 or +0/+2 until end of turn. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/278.png" num="139">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/278.png" num="138">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4822,7 +4822,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Swarm of Roaches</name>
 			<text>When this creature enters or a player partakes, create three 1/1 black and green Insect creature tokens. (At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)</text>
-			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/279.png" num="159">HUV</set>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/279.png" num="158">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4839,7 +4839,7 @@ Whenever this creature attacks, draw a card.</text>
 		<card>
 			<name>Misguided Counselor</name>
 			<text>When this creature enters, prevent all combat damage that would be dealt until your next turn.</text>
-			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/280.png" num="154">HUV</set>
+			<set rarity="common" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/280.png" num="153">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4858,7 +4858,7 @@ Whenever this creature attacks, draw a card.</text>
 			<text>Musical
 Flashback—Tap three untapped creatures you control.
 Target player mills 4 times X cards. Prevent all combat damage that would be dealt this turn.</text>
-			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/281.png" num="3">HUV</set>
+			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/281.png" num="4">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4923,7 +4923,7 @@ Target player mills 4 times X cards. Prevent all combat damage that would be dea
 When you cast this spell, exile it with X time counters on it. It gains suspend.
 When a time counter is removed from this spell, each player creates Food token.
 Whenever a player partakes, if this spell has at least one time counter on it, that player sacrifices a creature.</text>
-			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/284.png" num="4">HUV</set>
+			<set rarity="masterpiece" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/284.png" num="5">HUV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4935,6 +4935,41 @@ Whenever a player partakes, if this spell has at least one time counter on it, t
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Voice Of</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Reprise {5}{U}{W}{W} (You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.) (As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)
+II — • The People {2}{U} — Gain control of target creature with mana value X or less.
+III — • God 2WWW — Exile up to X target creatures.</text>
+			<set rarity="rare" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/285.png" num="220">HUV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vee Tower</name>
+			<text>{T}: Add {U}
+{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
+			<set rarity="mythic" picurl="https://PhyrexianDreadThot/sets/HUV-files/img/286.png" num="276">HUV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

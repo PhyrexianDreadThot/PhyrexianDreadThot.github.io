@@ -1,4 +1,131 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Voice Of added.
+Vee Tower added.
+
+
+Once We Get Up There
+rules_text: Scry 1, then draw one card.
+[i](You may cast all parts of this spell for its Reprise cost. If you do, it gains musical.)[/i]
+I — Reprise {5}{B}{R}{R} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I'll End You Just For Fun[/i] {1}{R}{R} — This spell deals 2 damage to each creature X times.
+II — • [i]And Snag That Angelic Throne[/i] {3}{R} — Gain control of up to X target artifacts.
+III — • [i]We'll Take Total Control[/i] {B} — You draw X cards and lose X life. => Scry 1, then draw one card.
+[i](You may cast all parts of this spell for its Reprise cost. If you do, it gains musical.)[/i]
+I — Reprise {5}{B}{R}{R} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I'll End You Just For Fun[/i] {1}{R}{R} — This spell deals 2 damage to each creature X times.
+II — • [i]And Snag That Angelic Throne[/i] {3}{R} — Gain control of up to X target artifacts.
+III — • [i]We'll Take Total Control[/i] {B} — You draw X cards and lose X life.
+special_text: Scry 1, then draw one card.
+[i](You may cast all parts of this spell for its Reprise cost. If you do, it gains musical.)[/i]
+I — Reprise {5}{B}{R}{R} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I'll End You Just For Fun[/i] {1}{R}{R} — This spell deals 2 damage to each creature X times.
+II — • [i]And Snag That Angelic Throne[/i] {3}{R} — Gain control of up to X target artifacts.
+III — • [i]We'll Take Total Control[/i] {B} — You draw X cards and lose X life. => Scry 1, then draw one card.
+[i](You may cast all parts of this spell for its Reprise cost. If you do, it gains musical.)[/i]
+I — Reprise {5}{B}{R}{R} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I'll End You Just For Fun[/i] {1}{R}{R} — This spell deals 2 damage to each creature X times.
+II — • [i]And Snag That Angelic Throne[/i] {3}{R} — Gain control of up to X target artifacts.
+III — • [i]We'll Take Total Control[/i] {B} — You draw X cards and lose X life.
+
+Gonna Make You Wish That
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {6}{R}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+II — • {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
+III — • [i] 2[/i]G — Return up to X permanent cards from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {6}{R}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+II — •[i] I'd Stayed Gone[/i] {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
+III — • [i]You'd Stayed Gone 2[/i]G — Return up to X permanent cards from your graveyard to your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {6}{R}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+II — • {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
+III — • [i] 2[/i]G — Return up to X permanent cards from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {6}{R}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+II — •[i] I'd Stayed Gone[/i] {3}{R} — Exile the top two cards of your library X times. You may play those cards during your next X turns.
+III — • [i]You'd Stayed Gone 2[/i]G — Return up to X permanent cards from your graveyard to your hand.
+
+When I Think About The Future
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reprise {5}{W}{U}{B}{R}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I See A Better Place [/i]{W} — Create X X/X white Demon creature tokens.
+• [i]You'll Never Fill Your Cup [/i]{1}{R} — Draw X cards, then discard X cards.
+• [i]Don't Break Up The Band [/i]{2}{G} — Creatures you control get +X/+X until end of turn. Untap them.
+• [i]No One Gets To Live [/i]{2}{B}{B} — Destroy up to X target creatures.
+• [i]I Try To Buy Us Time [/i]{5}{U}{U} — Take X extra turns after this one. Exile When I Think About The Future.
+I See a Better Place {1}{W}— Create one 1/1 white Demon creature token.
+I Climb the Stairway Up to Heaven {3}{U}{U}{R} — Gain control of up to one target creature.
+No One Gets to Live {1}{B} — All creatures get -1/-1 until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reprise {5}{W}{U}{B}{R}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I See A Better Place [/i]{W} — Create X X/X white Demon creature tokens.
+• [i]You'll Never Fill Your Cup [/i]{1}{R} — Draw X cards, then discard X cards.
+• [i]Don't Break Up The Band [/i]{2}{G} — Creatures you control get +X/+X until end of turn. Untap them.
+• [i]No One Gets To Live [/i]{2}{B}{B} — Destroy up to X target creatures.
+• [i]I Try To Buy Us Time [/i]{5}{U}{U} — Take X extra turns after this one. Exile When I Think About The Future.
+I See a Better Place {1}{W}— Create one 1/1 white Demon creature token.
+I Climb the Stairway Up to Heaven {3}{U}{U}{R} — Gain control of up to one target creature.
+No One Gets to Live {1}{B} — All creatures get -1/-1 until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reprise {5}{W}{U}{B}{R}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I See A Better Place [/i]{W} — Create X X/X white Demon creature tokens.
+• [i]You'll Never Fill Your Cup [/i]{1}{R} — Draw X cards, then discard X cards.
+• [i]Don't Break Up The Band [/i]{2}{G} — Creatures you control get +X/+X until end of turn. Untap them.
+• [i]No One Gets To Live [/i]{2}{B}{B} — Destroy up to X target creatures.
+• [i]I Try To Buy Us Time [/i]{5}{U}{U} — Take X extra turns after this one. Exile When I Think About The Future.
+I See a Better Place {1}{W}— Create one 1/1 white Demon creature token.
+I Climb the Stairway Up to Heaven {3}{U}{U}{R} — Gain control of up to one target creature.
+No One Gets to Live {1}{B} — All creatures get -1/-1 until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reprise {5}{W}{U}{B}{R}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]I See A Better Place [/i]{W} — Create X X/X white Demon creature tokens.
+• [i]You'll Never Fill Your Cup [/i]{1}{R} — Draw X cards, then discard X cards.
+• [i]Don't Break Up The Band [/i]{2}{G} — Creatures you control get +X/+X until end of turn. Untap them.
+• [i]No One Gets To Live [/i]{2}{B}{B} — Destroy up to X target creatures.
+• [i]I Try To Buy Us Time [/i]{5}{U}{U} — Take X extra turns after this one. Exile When I Think About The Future.
+I See a Better Place {1}{W}— Create one 1/1 white Demon creature token.
+I Climb the Stairway Up to Heaven {3}{U}{U}{R} — Gain control of up to one target creature.
+No One Gets to Live {1}{B} — All creatures get -1/-1 until end of turn.
+
+Airwaves at War
+rules_text: As this enchantment enters, choose Radio or Television.
+• Radio — At the beginning of your end step, create one 1/1 Black incarnation creature token.
+• Television — At the beginning of your upkeep, mill three cards. Return up to one artifact card from among them to your hand. => As this enchantment enters, choose Radio or Television.
+• Radio — At the beginning of your end step, create one 1/1 black Incarnation creature token.
+• Television — At the beginning of your upkeep, mill three cards. Return up to one artifact card from among them to your hand.
+
+Vox Dei
+
+We Can Do This
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {4}{W}{W}{G}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]There's Still Damage To Be Undone[/i] {1}{G} — Mill X+4 cards, then return up to X+1 land cards from your graveyard to your hand.
+II — • [i]That Is Not Where This Ends [/i]{3}{W}{W} — Return up to X target creature cards with mana value X or less from your graveyard to the battlefield.
+III — • [i]We'll Be Atop The Heap [/i]{2}{G} — Distribute X+3 +1/+1 counters among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {4}{W}{W}{G}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]There's Still Damage To Be Undone[/i] {1}{G} — Mill 3 plus X cards, then return up to X land cards from your graveyard to your hand.
+II — • [i]That Is Not Where This Ends [/i]{3}{W}{W} — Return up to X target creature cards with mana value X or less from your graveyard to the battlefield.
+III — • [i]We'll Be Atop The Heap [/i]{2}{G} — Distribute 2 plus X +1/+1 counters among creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {4}{W}{W}{G}{G} [i](You may cast any one mode of this spell or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]There's Still Damage To Be Undone[/i] {1}{G} — Mill X+4 cards, then return up to X+1 land cards from your graveyard to your hand.
+II — • [i]That Is Not Where This Ends [/i]{3}{W}{W} — Return up to X target creature cards with mana value X or less from your graveyard to the battlefield.
+III — • [i]We'll Be Atop The Heap [/i]{2}{G} — Distribute X+3 +1/+1 counters among creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reprise {4}{W}{W}{G}{G} [i](You may cast any one mode of this spell for X=1 or cast them all for its reprise cost. If the reprise cost was paid, it gains musical.)[/i] [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+• [i]There's Still Damage To Be Undone[/i] {1}{G} — Mill 3 plus X cards, then return up to X land cards from your graveyard to your hand.
+II — • [i]That Is Not Where This Ends [/i]{3}{W}{W} — Return up to X target creature cards with mana value X or less from your graveyard to the battlefield.
+III — • [i]We'll Be Atop The Heap [/i]{2}{G} — Distribute 2 plus X +1/+1 counters among creatures you control.
+
+Rosie's Waiters
+rules_text: Whenever a Food enters under your control and whenever you gain life, each opponent loses 1 life. => Whenever you partake, each opponent loses 1 life. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i]
+
+
+type: Legendary Creature — Merfolk Imp Clown => 
+cost: {2}{G}{U} => 
+rules_text: Whenever a player taps a land for mana, add one mana of any color.
+Whenever a player draws their second card each turn, draw a card. => 
+pt: 3/4 => 
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Tuned Overlord added.
