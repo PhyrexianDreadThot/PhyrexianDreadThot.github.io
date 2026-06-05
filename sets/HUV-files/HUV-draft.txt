@@ -2,10 +2,10 @@
 	[
 		{
 			"name": "Glitz and Glam, Double Trouble",
-			"rarity": "mythic",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Merfolk Imp Clown",
-			"collector_number": "190",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/0.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Elder Demon Insect",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Rabbit Demon",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — Elder Demon Clown",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/10.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Snake Imp Clown",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/12.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Cyclops Demon",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Imp Citizen",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/15.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Food",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/17.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/20.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{U}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/28.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/30.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Snake Demon Artificer",
-			"collector_number": "212",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/38.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/46.png"
 			}
@@ -483,9 +483,9 @@
 		{
 			"name": "Gravity",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/49.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Food Egg",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/53.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "206",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/55.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "220",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/58.png"
 			}
@@ -643,7 +643,7 @@
 		{
 			"name": "Carmilla, Arms Dealer",
 			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Demon Warrior",
 			"collector_number": "5",
 			"image_uris": {
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Cat Demon",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/68.png"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/71.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{W}",
 			"type": "Legendary Creature — Elder Demon",
-			"collector_number": "210",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/72.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Legendary Creature — Elder Angel",
-			"collector_number": "197",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/76.png"
 			}
@@ -793,9 +793,9 @@
 		{
 			"name": "You Didn't Know",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "227",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/79.png"
 			}
@@ -825,7 +825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/82.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/86.png"
 			}
@@ -875,17 +875,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/87.png"
 			}
 		},
 		{
 			"name": "Morningstar Tridant",
-			"rarity": "rare",
-			"mana_cost": "{5}",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Creature — Insect Demon",
-			"collector_number": "240",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/89.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/99.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "274",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/101.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/104.png"
 			}
@@ -1063,9 +1063,9 @@
 		{
 			"name": "Airwaves at War",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Enchantment",
-			"collector_number": "166",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/106.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Instant",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/112.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/U}{G/U}",
 			"type": "Creature — Lizard Demon",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/114.png"
 			}
@@ -1153,9 +1153,9 @@
 		{
 			"name": "Prick and Hatchet's Fued",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{W}",
+			"mana_cost": "{3}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "207",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/115.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/116.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Insect Demon",
-			"collector_number": "208",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/118.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Creature — Demon",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/124.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Instant",
-			"collector_number": "211",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Creature — Insect Bard",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/129.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}",
 			"type": "Legendary Artifact",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/132.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/141.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Insect Demon",
-			"collector_number": "216",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/143.png"
 			}
@@ -1453,9 +1453,9 @@
 		{
 			"name": "Angel, Delight Sampler",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Creature — Spider Demon",
-			"collector_number": "168",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Spider Demon",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/145.png"
 			}
@@ -1465,17 +1465,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Merfolk Demon",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/146.png"
 			}
 		},
 		{
-			"name": "Man-Meat",
+			"name": "Tuned Overlord",
 			"rarity": "common",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Creature — Demon",
-			"collector_number": "238",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/147.png"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}{B}",
 			"type": "Legendary Creature — Angel Warrior",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/148.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Demon Citizen",
-			"collector_number": "209",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/152.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Spider Demon",
-			"collector_number": "228",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/153.png"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Imp Assassin",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/158.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Rat Demon",
-			"collector_number": "241",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/165.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Plant Demon",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Demon",
-			"collector_number": "217",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/168.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Imp Clown",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/171.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/175.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/176.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "276",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/177.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/178.png"
 			}
@@ -1795,7 +1795,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/179.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/180.png"
 			}
@@ -1823,9 +1823,9 @@
 		{
 			"name": "CHERUB Agents",
 			"rarity": "common",
-			"mana_cost": "{1}{W/B}{W/B}",
+			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Creature — Angel Citizen",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/182.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Creature — Demon Citizen",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/190.png"
 			}
@@ -1943,19 +1943,19 @@
 		{
 			"name": "Extermination Vetran",
 			"rarity": "common",
-			"mana_cost": "{2}{W/B}",
+			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/194.png"
 			}
 		},
 		{
-			"name": "Exorcist Armorer",
+			"name": "Exorcist Bloodforger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/195.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/196.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/197.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/198.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/199.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/200.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Imp Assassin",
-			"collector_number": "215",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/203.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Imp Warrior",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/205.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}{G}{U}",
 			"type": "Creature — Leviathan",
-			"collector_number": "222",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/206.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Imp Clown",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/208.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/209.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact — Treasure",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/214.png"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R/W}{R/W}",
 			"type": "Creature — Dog",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/219.png"
 			}
@@ -2281,7 +2281,7 @@
 			}
 		},
 		{
-			"name": "Pain Games",
+			"name": "Pain Game Rivalry",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
@@ -2305,7 +2305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/230.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/231.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{9}",
 			"type": "Legendary Artifact",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/242.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/247.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/249.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/250.png"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/251.png"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "common",
 			"mana_cost": "{W/B}",
 			"type": "Creature — Human",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/255.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/256.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "229",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}{U/R}",
 			"type": "Creature — Bird Demon Noble",
-			"collector_number": "239",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/259.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G/U}{G/U}",
 			"type": "Artifact Creature — Worm Horse",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/267.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human",
-			"collector_number": "214",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/271.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/272.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "280",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/273.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "277",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/275.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/276.png"
 			}
@@ -2847,10 +2847,19 @@
 				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/283_front.png"
 			}
 		},
+		{
+			"name": "Addicted",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/284.png"
+			}
+		}
 	]
 
 [rare(1)]
-	1 Glitz and Glam, Double Trouble
 	1 Two Minutes Notice
 	2 City of Pride
 	1 Beelzebub, Sin of Gluttony
@@ -2884,7 +2893,7 @@
 	2 You Didn't Know
 	2 Dramatic Revelation
 	2 Vaggie, Fallen Exorcist
-	2 Morningstar Tridant
+	1 Morningstar Tridant
 	2 Shok.wav
 	2 The Angelic Court
 	2 Sera, Matriarch of Heaven
@@ -2990,7 +2999,7 @@
 	4 Don't You Forget
 	4 DHORKS Investigator
 	4 Mob Strongarm
-	4 Exorcist Armorer
+	4 Exorcist Bloodforger
 	4 Exorcist Headcleaver
 	4 Exorcist Painblade
 	4 Angelic Boot Camp
@@ -3072,7 +3081,7 @@
 	8 Reduce to Scrap
 	8 Supportive Mantis
 	8 Spindle Horse
-	8 Man-Meat
+	8 Tuned Overlord
 	8 Shameless Slug
 	8 Velvette's Influencer
 	8 Cantankerous Cannibal
@@ -3106,7 +3115,7 @@
 	8 Fluffy Friends
 	8 Hellhog
 	8 Hellshark
-	8 Pain Games
+	8 Pain Game Rivalry
 	8 Truth Bomb
 	8 Aggressive Dancer
 	8 Clubgoing Sinner
@@ -3129,6 +3138,7 @@
 	8 Downcast Patron
 	8 Misguided Counselor
 [common | masterpiece(1)]
+	3 Glitz and Glam, Double Trouble
 	8 Loser, Baby
 	8 Ice of the Beholder
 	8 Laugh it Up
@@ -3186,7 +3196,7 @@
 	8 Reduce to Scrap
 	8 Supportive Mantis
 	8 Spindle Horse
-	8 Man-Meat
+	8 Tuned Overlord
 	8 Shameless Slug
 	8 Velvette's Influencer
 	8 Cantankerous Cannibal
@@ -3220,7 +3230,7 @@
 	8 Fluffy Friends
 	8 Hellhog
 	8 Hellshark
-	8 Pain Games
+	8 Pain Game Rivalry
 	8 Truth Bomb
 	8 Aggressive Dancer
 	8 Clubgoing Sinner
@@ -3245,8 +3255,8 @@
 	3 Look at This!
 	3 Klown
 	3 
+	3 Addicted
 [foil(1)]
-	1 Glitz and Glam, Double Trouble
 	1 Two Minutes Notice
 	6 Cotton Candy
 	2 City of Pride
@@ -3334,7 +3344,7 @@
 	12 Angelic Armory
 	12 Angelic Spear
 	6 Eat Shrapnel
-	2 Morningstar Tridant
+	1 Morningstar Tridant
 	12 New Talent
 	2 Shok.wav
 	6 The Weight of Thousands
@@ -3393,7 +3403,7 @@
 	12 Spindle Horse
 	2 Angel, Delight Sampler
 	2 Baxter, Mad Scientist
-	12 Man-Meat
+	12 Tuned Overlord
 	2 Lute, Exorcist Lieutenant
 	6 Abel, Cowardly Commander
 	6 St. Peter, Heaven's Mascot
@@ -3441,7 +3451,7 @@
 	12 Rosie's Waiters
 	6 Mob Strongarm
 	12 Extermination Vetran
-	6 Exorcist Armorer
+	6 Exorcist Bloodforger
 	2 Brute Force
 	6 Exorcist Headcleaver
 	6 Exorcist Painblade
@@ -3474,7 +3484,7 @@
 	1 Lyle, Robotic Oligarch
 	12 Hellhog
 	12 Hellshark
-	12 Pain Games
+	12 Pain Game Rivalry
 	2 Cursed Moon
 	6 Tranq Gun
 	12 Truth Bomb
@@ -3523,7 +3533,6 @@
 	1 Swarm of Roaches
 	12 Misguided Counselor
 [wildcard(1)]
-	4 Glitz and Glam, Double Trouble
 	4 Two Minutes Notice
 	15 Cotton Candy
 	7 City of Pride
@@ -3611,7 +3620,7 @@
 	6 Angelic Armory
 	6 Angelic Spear
 	15 Eat Shrapnel
-	7 Morningstar Tridant
+	4 Morningstar Tridant
 	6 New Talent
 	7 Shok.wav
 	15 The Weight of Thousands
@@ -3670,7 +3679,7 @@
 	6 Spindle Horse
 	7 Angel, Delight Sampler
 	7 Baxter, Mad Scientist
-	6 Man-Meat
+	6 Tuned Overlord
 	7 Lute, Exorcist Lieutenant
 	15 Abel, Cowardly Commander
 	15 St. Peter, Heaven's Mascot
@@ -3718,7 +3727,7 @@
 	6 Rosie's Waiters
 	15 Mob Strongarm
 	6 Extermination Vetran
-	15 Exorcist Armorer
+	15 Exorcist Bloodforger
 	7 Brute Force
 	15 Exorcist Headcleaver
 	15 Exorcist Painblade
@@ -3751,7 +3760,7 @@
 	4 Lyle, Robotic Oligarch
 	6 Hellhog
 	6 Hellshark
-	6 Pain Games
+	6 Pain Game Rivalry
 	7 Cursed Moon
 	15 Tranq Gun
 	6 Truth Bomb
