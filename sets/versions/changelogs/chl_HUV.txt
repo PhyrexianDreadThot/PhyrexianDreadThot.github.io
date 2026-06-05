@@ -1,4 +1,17 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+
+type: Legendary Creature — Merfolk Imp Clown => 
+cost: {2}{G}{U} => 
+rules_text: Whenever a player taps a land for mana, add one mana of any color.
+Whenever a player draws their second card each turn, draw a card. => 
+pt: 3/4 => 
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
