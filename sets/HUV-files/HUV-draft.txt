@@ -1,0 +1,3801 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Glitz and Glam, Double Trouble",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Imp Clown",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/0.png"
+			}
+		},
+		{
+			"name": "Two Minutes Notice",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/1.png"
+			}
+		},
+		{
+			"name": "Cotton Candy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/2.png"
+			}
+		},
+		{
+			"name": "City of Pride",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/3.png"
+			}
+		},
+		{
+			"name": "Beelzebub, Sin of Gluttony",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Elder Demon Insect",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/4.png"
+			}
+		},
+		{
+			"name": "Beelzebub's Celebration",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/5.png"
+			}
+		},
+		{
+			"name": "Exorcist Sincarvers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/6.png"
+			}
+		},
+		{
+			"name": "Benevolent Bartender",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Rabbit Demon",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/7.png"
+			}
+		},
+		{
+			"name": "Love in a Bottle",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/8.png"
+			}
+		},
+		{
+			"name": "Once We Get Up There",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/9.png"
+			}
+		},
+		{
+			"name": "Mammon, Sin of Greed",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Elder Demon Clown",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/10.png"
+			}
+		},
+		{
+			"name": "Let the Slaughter Begin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/11.png"
+			}
+		},
+		{
+			"name": "Jovial Jester",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Snake Imp Clown",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/12.png"
+			}
+		},
+		{
+			"name": "Loser, Baby",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/13.png"
+			}
+		},
+		{
+			"name": "Exuberant Bombardier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Cyclops Demon",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/14.png"
+			}
+		},
+		{
+			"name": "Wrathi Ranchhand",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Imp Citizen",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/15.png"
+			}
+		},
+		{
+			"name": "Double or Nothing",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/16.png"
+			}
+		},
+		{
+			"name": "Ice of the Beholder",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Food",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/17.png"
+			}
+		},
+		{
+			"name": "Laugh it Up",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/18.png"
+			}
+		},
+		{
+			"name": "Gonna Make You Wish That",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/19.png"
+			}
+		},
+		{
+			"name": "When I Think About The Future",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/20.png"
+			}
+		},
+		{
+			"name": "Dark Shield",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Wall Avatar",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/21.png"
+			}
+		},
+		{
+			"name": "Next To Die",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/22.png"
+			}
+		},
+		{
+			"name": "Adam, The First Man",
+			"rarity": "mythic",
+			"mana_cost": "{6}{W}{B}",
+			"type": "Legendary Creature — Elder Angel Warrior",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/23.png"
+			}
+		},
+		{
+			"name": "Make a Deal",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/24.png"
+			}
+		},
+		{
+			"name": "You're Sloppy",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/25.png"
+			}
+		},
+		{
+			"name": "Squadron Executioner",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/26.png"
+			}
+		},
+		{
+			"name": "Holy Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/27.png"
+			}
+		},
+		{
+			"name": "Deathray Battleship",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/28.png"
+			}
+		},
+		{
+			"name": "Razzle & Dazzle",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Demon Dragon",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/29.png"
+			}
+		},
+		{
+			"name": "Trap Under Rubble",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/30.png"
+			}
+		},
+		{
+			"name": "Parry",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/31.png"
+			}
+		},
+		{
+			"name": "You're In MY House!",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/32.png"
+			}
+		},
+		{
+			"name": "Sir Pentious, Mastercraft Inventor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Snake Demon Artificer",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/33.png"
+			}
+		},
+		{
+			"name": "Grab-o-Tron",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/34.png"
+			}
+		},
+		{
+			"name": "Flame Baton",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/35.png"
+			}
+		},
+		{
+			"name": "Cherry Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/36.png"
+			}
+		},
+		{
+			"name": "Toxic Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/37.png"
+			}
+		},
+		{
+			"name": "Radio Demon's Conduit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/38.png"
+			}
+		},
+		{
+			"name": "Smile",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/39.png"
+			}
+		},
+		{
+			"name": "The Fruit Of Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Food",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/40.png"
+			}
+		},
+		{
+			"name": "Nifty, Queen of Filth",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/41.png"
+			}
+		},
+		{
+			"name": "Voxtech™ Voyarscope",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/42.png"
+			}
+		},
+		{
+			"name": "Media Mob",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/43.png"
+			}
+		},
+		{
+			"name": "Trust Us",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/44.png"
+			}
+		},
+		{
+			"name": "Voxtech™ Intern",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Demon Artificer",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/45.png"
+			}
+		},
+		{
+			"name": "Moneyshot, Val's Handcannon",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/46.png"
+			}
+		},
+		{
+			"name": "Adorable Companion",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/47.png"
+			}
+		},
+		{
+			"name": "Gravity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/48.png"
+			}
+		},
+		{
+			"name": "Voxtech™ Watch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/49.png"
+			}
+		},
+		{
+			"name": "It Starts With Sorry",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/50.png"
+			}
+		},
+		{
+			"name": "Skinflayer 11,000",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/51.png"
+			}
+		},
+		{
+			"name": "Whatever It Takes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/52.png"
+			}
+		},
+		{
+			"name": "Eggbois",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Food Egg",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/53.png"
+			}
+		},
+		{
+			"name": "Hear My Hope",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/54.png"
+			}
+		},
+		{
+			"name": "Poison",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/55.png"
+			}
+		},
+		{
+			"name": "Good Girl",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/56.png"
+			}
+		},
+		{
+			"name": "Tension",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/57.png"
+			}
+		},
+		{
+			"name": "Trust Exercises",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/58.png"
+			}
+		},
+		{
+			"name": "Mock",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/59.png"
+			}
+		},
+		{
+			"name": "Respectless",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/60.png"
+			}
+		},
+		{
+			"name": "Alastor, The Radio Demon",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Elk Demon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/61.png"
+			}
+		},
+		{
+			"name": "Vox Populi, People's Voice",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact Creature — Demon Construct",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/62.png"
+			}
+		},
+		{
+			"name": "Velvette, Trendsetter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact Creature — Demon Witch",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/63.png"
+			}
+		},
+		{
+			"name": "Carmilla, Arms Dealer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/64.png"
+			}
+		},
+		{
+			"name": "Charlie, Princess of Hell",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Demon Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/65.png"
+			}
+		},
+		{
+			"name": "Weaponized Cards",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/66.png"
+			}
+		},
+		{
+			"name": "Mobile Armory",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/67.png"
+			}
+		},
+		{
+			"name": "Husk, Highroller",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Cat Demon",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/68.png"
+			}
+		},
+		{
+			"name": "Eat Lead",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/69.png"
+			}
+		},
+		{
+			"name": "Magictastical Rubber Duck",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/70.png"
+			}
+		},
+		{
+			"name": "Ambition of a Dreamer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/71.png"
+			}
+		},
+		{
+			"name": "Satan, Sin of Wrath",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{W}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/72.png"
+			}
+		},
+		{
+			"name": "More Than Anything",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/73.png"
+			}
+		},
+		{
+			"name": "Everyone, Twice",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/74.png"
+			}
+		},
+		{
+			"name": "I'd Like To Buy You A Drink",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/75.png"
+			}
+		},
+		{
+			"name": "Lucifer, Dreaming King",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Legendary Creature — Elder Angel",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/76.png"
+			}
+		},
+		{
+			"name": "Path To Redemption",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/77.png"
+			}
+		},
+		{
+			"name": "Do What Was Required",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/78.png"
+			}
+		},
+		{
+			"name": "You Didn't Know",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/79.png"
+			}
+		},
+		{
+			"name": "Dramatic Revelation",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/80.png"
+			}
+		},
+		{
+			"name": "Vaggie, Fallen Exorcist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Angel Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/81.png"
+			}
+		},
+		{
+			"name": "Cannibal Scepter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/82.png"
+			}
+		},
+		{
+			"name": "Ready For This",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/83.png"
+			}
+		},
+		{
+			"name": "Angelic Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/84.png"
+			}
+		},
+		{
+			"name": "Angelic Armory",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/85.png"
+			}
+		},
+		{
+			"name": "Angelic Spear",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/86.png"
+			}
+		},
+		{
+			"name": "Eat Shrapnel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/87.png"
+			}
+		},
+		{
+			"name": "Morningstar Tridant",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/88.png"
+			}
+		},
+		{
+			"name": "New Talent",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/89.png"
+			}
+		},
+		{
+			"name": "Shok.wav",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Shark",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/90.png"
+			}
+		},
+		{
+			"name": "The Weight of Thousands",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/91.png"
+			}
+		},
+		{
+			"name": "The Angelic Court",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/92.png"
+			}
+		},
+		{
+			"name": "Emily, Compassionate Seraphim",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/93.png"
+			}
+		},
+		{
+			"name": "Angel of the Council",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/94.png"
+			}
+		},
+		{
+			"name": "Sera, Matriarch of Heaven",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Elder Angel",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/95.png"
+			}
+		},
+		{
+			"name": "Redeem",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/96.png"
+			}
+		},
+		{
+			"name": "Heaven in Lockdown",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/97.png"
+			}
+		},
+		{
+			"name": "Propaganda",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/98.png"
+			}
+		},
+		{
+			"name": "Relic of Sir Pentious",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/99.png"
+			}
+		},
+		{
+			"name": "Determination",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/100.png"
+			}
+		},
+		{
+			"name": "Hell's Fair",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/101.png"
+			}
+		},
+		{
+			"name": "Bio Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/102.png"
+			}
+		},
+		{
+			"name": "Joint Research Project",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/103.png"
+			}
+		},
+		{
+			"name": "Big Roach",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/104.png"
+			}
+		},
+		{
+			"name": "Pest Extermination",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/105.png"
+			}
+		},
+		{
+			"name": "Airwaves at War",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/106.png"
+			}
+		},
+		{
+			"name": "Snag",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/107.png"
+			}
+		},
+		{
+			"name": "Impact",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/108.png"
+			}
+		},
+		{
+			"name": "Reinforcements Have Arrived",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/109.png"
+			}
+		},
+		{
+			"name": "Spectral Knives",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/110.png"
+			}
+		},
+		{
+			"name": "Magician's Box",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Treasure",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/111.png"
+			}
+		},
+		{
+			"name": "Infernal Glamour",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/112.png"
+			}
+		},
+		{
+			"name": "Curious Cupple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/113.png"
+			}
+		},
+		{
+			"name": "Distracted Bystandard",
+			"rarity": "common",
+			"mana_cost": "{4}{G/U}{G/U}",
+			"type": "Creature — Lizard Demon",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/114.png"
+			}
+		},
+		{
+			"name": "Prick and Hatchet's Fued",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/115.png"
+			}
+		},
+		{
+			"name": "Bad With Us",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/116.png"
+			}
+		},
+		{
+			"name": "Lost Hotel Guest",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Lizard Demon",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/117.png"
+			}
+		},
+		{
+			"name": "Reckless Guest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/118.png"
+			}
+		},
+		{
+			"name": "Woefull Guest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/119.png"
+			}
+		},
+		{
+			"name": "I Brought Cookies!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/120.png"
+			}
+		},
+		{
+			"name": "Gift Basket",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Food Clue Treasure",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/121.png"
+			}
+		},
+		{
+			"name": "Lucifer's Radiance",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/122.png"
+			}
+		},
+		{
+			"name": "Flame Serpant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon Avatar",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/123.png"
+			}
+		},
+		{
+			"name": "Joyful Siblings",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Demon",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/124.png"
+			}
+		},
+		{
+			"name": "Blocked",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/125.png"
+			}
+		},
+		{
+			"name": "Vox Dei",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/126.png"
+			}
+		},
+		{
+			"name": "Orchard Dryad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Plant Demon Dryad",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/127.png"
+			}
+		},
+		{
+			"name": "Scream Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/128.png"
+			}
+		},
+		{
+			"name": "Bug Band",
+			"rarity": "common",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature — Insect Bard",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/129.png"
+			}
+		},
+		{
+			"name": "Scary Box",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/130.png"
+			}
+		},
+		{
+			"name": "Brighter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/131.png"
+			}
+		},
+		{
+			"name": "Might of Lillith",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/132.png"
+			}
+		},
+		{
+			"name": "Realm Sundered",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/133.png"
+			}
+		},
+		{
+			"name": "Heaven Denizens",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/134.png"
+			}
+		},
+		{
+			"name": "Vox's Ultimatum",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/135.png"
+			}
+		},
+		{
+			"name": "Mute",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/136.png"
+			}
+		},
+		{
+			"name": "Exploit Openings",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/137.png"
+			}
+		},
+		{
+			"name": "Spike Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/138.png"
+			}
+		},
+		{
+			"name": "Slip Into Shadow",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/139.png"
+			}
+		},
+		{
+			"name": "Shadow of Evil",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/140.png"
+			}
+		},
+		{
+			"name": "Hell Car",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/141.png"
+			}
+		},
+		{
+			"name": "Reduce to Scrap",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/142.png"
+			}
+		},
+		{
+			"name": "Supportive Mantis",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/143.png"
+			}
+		},
+		{
+			"name": "Spindle Horse",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Demon Horse",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/144.png"
+			}
+		},
+		{
+			"name": "Angel, Delight Sampler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Spider Demon",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/145.png"
+			}
+		},
+		{
+			"name": "Baxter, Mad Scientist",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Merfolk Demon",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/146.png"
+			}
+		},
+		{
+			"name": "Man-Meat",
+			"rarity": "common",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Creature — Demon",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/147.png"
+			}
+		},
+		{
+			"name": "Lute, Exorcist Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{B}",
+			"type": "Legendary Creature — Angel Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/148.png"
+			}
+		},
+		{
+			"name": "Abel, Cowardly Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Angel Coward",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/149.png"
+			}
+		},
+		{
+			"name": "St. Peter, Heaven's Mascot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/150.png"
+			}
+		},
+		{
+			"name": "Spiteful Oligarch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Horror",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/151.png"
+			}
+		},
+		{
+			"name": "Rosie, Delightful Cannibal",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Demon Citizen",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/152.png"
+			}
+		},
+		{
+			"name": "Zestial, Dapper Overlord",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Spider Demon",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/153.png"
+			}
+		},
+		{
+			"name": "Valintino, Vice King",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Moth Demon",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/154.png"
+			}
+		},
+		{
+			"name": "KeeKee, Beloved Keeper",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/155.png"
+			}
+		},
+		{
+			"name": "Blitzo, Murder Professional",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Imp Assassin",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/156.png"
+			}
+		},
+		{
+			"name": "Millie, Relentless Brawler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Imp Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/157.png"
+			}
+		},
+		{
+			"name": "Moxxie, Tactical Expert",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Imp Assassin",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/158.png"
+			}
+		},
+		{
+			"name": "Unrivaled Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Dinosaur Demon",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/159.png"
+			}
+		},
+		{
+			"name": "Shameless Slug",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Slug Demon",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/160.png"
+			}
+		},
+		{
+			"name": "Velvette's Influencer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/161.png"
+			}
+		},
+		{
+			"name": "Cantankerous Cannibal",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/162.png"
+			}
+		},
+		{
+			"name": "Funeral Caterer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/163.png"
+			}
+		},
+		{
+			"name": "Frightened Sinner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Minnotar Demon",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/164.png"
+			}
+		},
+		{
+			"name": "Ratings Reporter",
+			"rarity": "common",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Rat Demon",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/165.png"
+			}
+		},
+		{
+			"name": "Maestro, Grand Conductor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/166.png"
+			}
+		},
+		{
+			"name": "Thorned Menace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Plant Demon",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/167.png"
+			}
+		},
+		{
+			"name": "Tavern Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Demon",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/168.png"
+			}
+		},
+		{
+			"name": "Reluctant Receptionist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/169.png"
+			}
+		},
+		{
+			"name": "Verosika, Pop Icon",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Succubus Bard",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/170.png"
+			}
+		},
+		{
+			"name": "Fizzarolli, Headline Act",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Imp Clown",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/171.png"
+			}
+		},
+		{
+			"name": "Azathoth's Tears",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/172.png"
+			}
+		},
+		{
+			"name": "You Will Be OK",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/173.png"
+			}
+		},
+		{
+			"name": "Badlands of Wrath",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/174.png"
+			}
+		},
+		{
+			"name": "Circus of Greed",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/175.png"
+			}
+		},
+		{
+			"name": "Palace of Gluttony",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/176.png"
+			}
+		},
+		{
+			"name": "Spires of Heaven",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/177.png"
+			}
+		},
+		{
+			"name": "Don't You Forget",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/178.png"
+			}
+		},
+		{
+			"name": "Dice Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/179.png"
+			}
+		},
+		{
+			"name": "We Can Do This",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Sorcery",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/180.png"
+			}
+		},
+		{
+			"name": "Stolas, Prince of the Stars",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Bird Demon Noble",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/181.png"
+			}
+		},
+		{
+			"name": "CHERUB Agents",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Angel Citizen",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/182.png"
+			}
+		},
+		{
+			"name": "DHORKS Field Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/183.png"
+			}
+		},
+		{
+			"name": "DHORKS Recruit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/184.png"
+			}
+		},
+		{
+			"name": "DHORKS Investigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/185.png"
+			}
+		},
+		{
+			"name": "Exorcist Striker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/186.png"
+			}
+		},
+		{
+			"name": "Cannibal Gourmond",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/187.png"
+			}
+		},
+		{
+			"name": "Pinkie Fingers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Food",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/188.png"
+			}
+		},
+		{
+			"name": "Gluttonous Patrons",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/189.png"
+			}
+		},
+		{
+			"name": "Cannibal Town Hosts",
+			"rarity": "common",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/190.png"
+			}
+		},
+		{
+			"name": "Demon Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/191.png"
+			}
+		},
+		{
+			"name": "Rosie's Waiters",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/192.png"
+			}
+		},
+		{
+			"name": "Mob Strongarm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/193.png"
+			}
+		},
+		{
+			"name": "Extermination Vetran",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/194.png"
+			}
+		},
+		{
+			"name": "Exorcist Armorer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/195.png"
+			}
+		},
+		{
+			"name": "Brute Force",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/196.png"
+			}
+		},
+		{
+			"name": "Exorcist Headcleaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/197.png"
+			}
+		},
+		{
+			"name": "Exorcist Painblade",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/198.png"
+			}
+		},
+		{
+			"name": "Angelic Boot Camp",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/199.png"
+			}
+		},
+		{
+			"name": "Exorcist Butcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/200.png"
+			}
+		},
+		{
+			"name": "Striker, Hired Assassin",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Imp Assassin",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/201.png"
+			}
+		},
+		{
+			"name": "Spin Maneuver",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/202.png"
+			}
+		},
+		{
+			"name": "Morphine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/203.png"
+			}
+		},
+		{
+			"name": "Human Disguise",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/204.png"
+			}
+		},
+		{
+			"name": "Wrathi Homesteaders",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Imp Warrior",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/205.png"
+			}
+		},
+		{
+			"name": "Verosika's Mistake",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/206.png"
+			}
+		},
+		{
+			"name": "Cruel Anchorwoman",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/207.png"
+			}
+		},
+		{
+			"name": "Melancholy Clown",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Imp Clown",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/208.png"
+			}
+		},
+		{
+			"name": "Angelic Rifle",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/209.png"
+			}
+		},
+		{
+			"name": "Electric Eels",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/210.png"
+			}
+		},
+		{
+			"name": "Deranged Husband",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/211.png"
+			}
+		},
+		{
+			"name": "Hellborn Pitcher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/212.png"
+			}
+		},
+		{
+			"name": "LooLoo Mascot",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Imp Clown",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/213.png"
+			}
+		},
+		{
+			"name": "Novelty Cup",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Treasure",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/214.png"
+			}
+		},
+		{
+			"name": "LooLoo Band",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/215.png"
+			}
+		},
+		{
+			"name": "Copyright Infringement",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/216.png"
+			}
+		},
+		{
+			"name": "LooLooLand Carnie",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Imp",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/217.png"
+			}
+		},
+		{
+			"name": "Turn to Stone",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/218.png"
+			}
+		},
+		{
+			"name": "Verosika's Bodyguard",
+			"rarity": "common",
+			"mana_cost": "{3}{R/W}{R/W}",
+			"type": "Creature — Dog",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/219.png"
+			}
+		},
+		{
+			"name": "Loopty, Dastardly Inventor",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Artifact Creature — Demon Artificer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/220.png"
+			}
+		},
+		{
+			"name": "Tour Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/221.png"
+			}
+		},
+		{
+			"name": "Elderly Oligarch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/222.png"
+			}
+		},
+		{
+			"name": "Fluffy Friends",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rabbit Squirrel",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/223.png"
+			}
+		},
+		{
+			"name": "CHERUB Manager",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elk Angel",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/224.png"
+			}
+		},
+		{
+			"name": "Lyle, Robotic Oligarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Artifact Creature — Demon Artificer",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/225.png"
+			}
+		},
+		{
+			"name": "Hellhog",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/226.png"
+			}
+		},
+		{
+			"name": "Hellshark",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/227.png"
+			}
+		},
+		{
+			"name": "Pain Games",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/228.png"
+			}
+		},
+		{
+			"name": "Cursed Moon",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/229.png"
+			}
+		},
+		{
+			"name": "Tranq Gun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/230.png"
+			}
+		},
+		{
+			"name": "Truth Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/231.png"
+			}
+		},
+		{
+			"name": "Aggressive Dancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Imp",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/232.png"
+			}
+		},
+		{
+			"name": "Verosika's Bandmate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Succubus Bard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/233.png"
+			}
+		},
+		{
+			"name": "Clubgoing Sinner",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Demon",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/234.png"
+			}
+		},
+		{
+			"name": "Curious Weapons Tester",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Demon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/235.png"
+			}
+		},
+		{
+			"name": "Extermination Salvager",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/236.png"
+			}
+		},
+		{
+			"name": "Demonic Referee",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Demon",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/237.png"
+			}
+		},
+		{
+			"name": "Nightlife Enjoyer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/238.png"
+			}
+		},
+		{
+			"name": "Cupcake-Loving Child",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/239.png"
+			}
+		},
+		{
+			"name": "Happy Juice",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/240.png"
+			}
+		},
+		{
+			"name": "Alastor's Emergence",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/241.png"
+			}
+		},
+		{
+			"name": "Lillith's Memorial",
+			"rarity": "mythic",
+			"mana_cost": "{9}",
+			"type": "Legendary Artifact",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/242.png"
+			}
+		},
+		{
+			"name": "Heavin's Probe",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/243.png"
+			}
+		},
+		{
+			"name": "Anxious Model",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/244.png"
+			}
+		},
+		{
+			"name": "Helpful Spawns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Demon",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/245.png"
+			}
+		},
+		{
+			"name": "Breaking News",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/246.png"
+			}
+		},
+		{
+			"name": "Mammon's Clown Pageant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/247.png"
+			}
+		},
+		{
+			"name": "Turf War",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/248.png"
+			}
+		},
+		{
+			"name": "Pain Games",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/249.png"
+			}
+		},
+		{
+			"name": "Founding of Cannibal Town",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/250.png"
+			}
+		},
+		{
+			"name": "The Final Extermination",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/251.png"
+			}
+		},
+		{
+			"name": "Paimon, Goatian King",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Bird Demon Noble",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/252.png"
+			}
+		},
+		{
+			"name": "Stolas, Wrathwing Sovereign",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Bird Demon Noble",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/253.png"
+			}
+		},
+		{
+			"name": "Pouncing Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/254.png"
+			}
+		},
+		{
+			"name": "Demon-Obsessed Kooks",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Creature — Human",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/255.png"
+			}
+		},
+		{
+			"name": "Elevator Station",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/256.png"
+			}
+		},
+		{
+			"name": "Stage Controller",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Imp",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/257.png"
+			}
+		},
+		{
+			"name": "Aggressive Aura",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/258.png"
+			}
+		},
+		{
+			"name": "Masked Burglar",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Creature — Bird Demon Noble",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/259.png"
+			}
+		},
+		{
+			"name": "Snotty Socalite",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dog",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/260.png"
+			}
+		},
+		{
+			"name": "Dazzled Stargazer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/261.png"
+			}
+		},
+		{
+			"name": "Well-Fed Partier",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dog",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/262.png"
+			}
+		},
+		{
+			"name": "Gluttonous Hellhound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Dog",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/263.png"
+			}
+		},
+		{
+			"name": "Overstuffed Glutton",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dog",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/264.png"
+			}
+		},
+		{
+			"name": "Royal Attendant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Imp",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/265.png"
+			}
+		},
+		{
+			"name": "Knife Tosser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Imp",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/266.png"
+			}
+		},
+		{
+			"name": "Worm Horse",
+			"rarity": "common",
+			"mana_cost": "{4}{G/U}{G/U}",
+			"type": "Artifact Creature — Worm Horse",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/267.png"
+			}
+		},
+		{
+			"name": "Desperate Showrunner",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Imp",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/268.png"
+			}
+		},
+		{
+			"name": "Insufferable Royal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Bird Demon Noble",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/269.png"
+			}
+		},
+		{
+			"name": "Bright-Eyed Goetia",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Bird Demon Noble",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/270.png"
+			}
+		},
+		{
+			"name": "Street Peddler",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/271.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/272.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/273.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/274.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/275.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/276.png"
+			}
+		},
+		{
+			"name": "Sopping Scarecrow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Scarecrow Demon",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/277.png"
+			}
+		},
+		{
+			"name": "Downcast Patron",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Lizard Demon",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/278.png"
+			}
+		},
+		{
+			"name": "Swarm of Roaches",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/279.png"
+			}
+		},
+		{
+			"name": "Misguided Counselor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/280.png"
+			}
+		},
+		{
+			"name": "Look at This!",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/281.png"
+			}
+		},
+		{
+			"name": "Klown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/282.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://PhyrexianDreadThot/sets/HUV-files/img/283_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://PhyrexianDreadThot/sets/HUV-files/img/283_front.png"
+			}
+		},
+	]
+
+[rare(1)]
+	1 Glitz and Glam, Double Trouble
+	1 Two Minutes Notice
+	2 City of Pride
+	1 Beelzebub, Sin of Gluttony
+	2 Once We Get Up There
+	1 Mammon, Sin of Greed
+	2 Let the Slaughter Begin
+	2 Double or Nothing
+	1 When I Think About The Future
+	2 Dark Shield
+	1 Adam, The First Man
+	1 Make a Deal
+	2 Deathray Battleship
+	2 Razzle & Dazzle
+	2 Sir Pentious, Mastercraft Inventor
+	2 The Fruit Of Knowledge
+	2 Nifty, Queen of Filth
+	2 Moneyshot, Val's Handcannon
+	2 Adorable Companion
+	2 Gravity
+	2 Hear My Hope
+	1 Alastor, The Radio Demon
+	1 Vox Populi, People's Voice
+	2 Velvette, Trendsetter
+	2 Carmilla, Arms Dealer
+	1 Charlie, Princess of Hell
+	2 Mobile Armory
+	2 Husk, Highroller
+	1 Satan, Sin of Wrath
+	2 More Than Anything
+	1 Lucifer, Dreaming King
+	2 You Didn't Know
+	2 Dramatic Revelation
+	2 Vaggie, Fallen Exorcist
+	2 Morningstar Tridant
+	2 Shok.wav
+	2 The Angelic Court
+	2 Sera, Matriarch of Heaven
+	2 Redeem
+	2 Heaven in Lockdown
+	2 Determination
+	2 Airwaves at War
+	2 Reinforcements Have Arrived
+	2 Prick and Hatchet's Fued
+	1 Vox Dei
+	1 Might of Lillith
+	2 Vox's Ultimatum
+	2 Shadow of Evil
+	2 Angel, Delight Sampler
+	2 Baxter, Mad Scientist
+	2 Lute, Exorcist Lieutenant
+	2 Rosie, Delightful Cannibal
+	2 Zestial, Dapper Overlord
+	2 Valintino, Vice King
+	2 KeeKee, Beloved Keeper
+	2 Blitzo, Murder Professional
+	2 Millie, Relentless Brawler
+	2 Moxxie, Tactical Expert
+	2 Maestro, Grand Conductor
+	2 Verosika, Pop Icon
+	2 Fizzarolli, Headline Act
+	2 Azathoth's Tears
+	2 Badlands of Wrath
+	2 Circus of Greed
+	2 Palace of Gluttony
+	2 Spires of Heaven
+	2 We Can Do This
+	2 Stolas, Prince of the Stars
+	2 Brute Force
+	2 Exorcist Butcher
+	2 Striker, Hired Assassin
+	2 Wrathi Homesteaders
+	2 Verosika's Mistake
+	2 Cruel Anchorwoman
+	2 Angelic Rifle
+	2 Copyright Infringement
+	1 Loopty, Dastardly Inventor
+	2 CHERUB Manager
+	1 Lyle, Robotic Oligarch
+	2 Cursed Moon
+	2 Cupcake-Loving Child
+	2 Alastor's Emergence
+	1 Lillith's Memorial
+	2 Breaking News
+	1 Paimon, Goatian King
+	1 Stolas, Wrathwing Sovereign
+	1 Swarm of Roaches
+[uncommon(3)]
+	4 Cotton Candy
+	4 Beelzebub's Celebration
+	4 Exorcist Sincarvers
+	4 Benevolent Bartender
+	4 Love in a Bottle
+	4 Jovial Jester
+	4 Exuberant Bombardier
+	4 Wrathi Ranchhand
+	4 Gonna Make You Wish That
+	4 Next To Die
+	4 Radio Demon's Conduit
+	4 Trust Us
+	4 Voxtech™ Watch
+	4 Skinflayer 11,000
+	4 Whatever It Takes
+	4 Poison
+	4 Trust Exercises
+	4 Mock
+	4 Weaponized Cards
+	4 Ambition of a Dreamer
+	4 I'd Like To Buy You A Drink
+	4 Do What Was Required
+	4 Cannibal Scepter
+	4 Ready For This
+	4 Eat Shrapnel
+	4 The Weight of Thousands
+	4 Emily, Compassionate Seraphim
+	4 Propaganda
+	4 Hell's Fair
+	4 Joint Research Project
+	4 Big Roach
+	4 Curious Cupple
+	4 Reckless Guest
+	4 I Brought Cookies!
+	4 Gift Basket
+	4 Lucifer's Radiance
+	4 Flame Serpant
+	4 Scream Lightning
+	4 Scary Box
+	4 Spike Wave
+	4 Abel, Cowardly Commander
+	4 St. Peter, Heaven's Mascot
+	4 Spiteful Oligarch
+	4 Unrivaled Presence
+	4 Frightened Sinner
+	4 Thorned Menace
+	4 Tavern Brawler
+	4 Reluctant Receptionist
+	4 You Will Be OK
+	4 Don't You Forget
+	4 DHORKS Investigator
+	4 Mob Strongarm
+	4 Exorcist Armorer
+	4 Exorcist Headcleaver
+	4 Exorcist Painblade
+	4 Angelic Boot Camp
+	4 Morphine
+	4 Melancholy Clown
+	4 Tranq Gun
+	4 Verosika's Bandmate
+	4 Heavin's Probe
+	4 Helpful Spawns
+	4 Mammon's Clown Pageant
+	4 Turf War
+	4 Pain Games
+	4 Founding of Cannibal Town
+	4 The Final Extermination
+	4 Snotty Socalite
+	4 Dazzled Stargazer
+	4 Well-Fed Partier
+	4 Gluttonous Hellhound
+	4 Overstuffed Glutton
+	4 Royal Attendant
+	4 Knife Tosser
+	4 Insufferable Royal
+	4 Bright-Eyed Goetia
+[common(6)]
+	8 Loser, Baby
+	8 Ice of the Beholder
+	8 Laugh it Up
+	8 You're Sloppy
+	8 Squadron Executioner
+	8 Holy Light
+	8 Trap Under Rubble
+	8 Parry
+	8 You're In MY House!
+	8 Grab-o-Tron
+	8 Flame Baton
+	8 Cherry Bomb
+	8 Toxic Bomb
+	8 Smile
+	8 Voxtech™ Voyarscope
+	8 Media Mob
+	8 Voxtech™ Intern
+	8 It Starts With Sorry
+	8 Eggbois
+	8 Good Girl
+	8 Tension
+	8 Respectless
+	8 Eat Lead
+	8 Magictastical Rubber Duck
+	8 Everyone, Twice
+	8 Path To Redemption
+	8 Angelic Dagger
+	8 Angelic Armory
+	8 Angelic Spear
+	8 New Talent
+	8 Angel of the Council
+	8 Relic of Sir Pentious
+	8 Bio Bomb
+	8 Pest Extermination
+	8 Snag
+	8 Impact
+	8 Spectral Knives
+	8 Magician's Box
+	8 Infernal Glamour
+	8 Distracted Bystandard
+	8 Bad With Us
+	8 Lost Hotel Guest
+	8 Woefull Guest
+	8 Joyful Siblings
+	8 Blocked
+	8 Orchard Dryad
+	8 Bug Band
+	8 Brighter
+	8 Realm Sundered
+	8 Heaven Denizens
+	8 Mute
+	8 Exploit Openings
+	8 Slip Into Shadow
+	8 Hell Car
+	8 Reduce to Scrap
+	8 Supportive Mantis
+	8 Spindle Horse
+	8 Man-Meat
+	8 Shameless Slug
+	8 Velvette's Influencer
+	8 Cantankerous Cannibal
+	8 Funeral Caterer
+	8 Ratings Reporter
+	8 Dice Bomb
+	8 CHERUB Agents
+	8 DHORKS Field Agent
+	8 DHORKS Recruit
+	8 Exorcist Striker
+	8 Cannibal Gourmond
+	8 Pinkie Fingers
+	8 Gluttonous Patrons
+	8 Cannibal Town Hosts
+	8 Demon Brute
+	8 Rosie's Waiters
+	8 Extermination Vetran
+	8 Spin Maneuver
+	8 Human Disguise
+	8 Electric Eels
+	8 Deranged Husband
+	8 Hellborn Pitcher
+	8 LooLoo Mascot
+	8 Novelty Cup
+	8 LooLoo Band
+	8 LooLooLand Carnie
+	8 Turn to Stone
+	8 Verosika's Bodyguard
+	8 Tour Guide
+	8 Elderly Oligarch
+	8 Fluffy Friends
+	8 Hellhog
+	8 Hellshark
+	8 Pain Games
+	8 Truth Bomb
+	8 Aggressive Dancer
+	8 Clubgoing Sinner
+	8 Curious Weapons Tester
+	8 Extermination Salvager
+	8 Demonic Referee
+	8 Nightlife Enjoyer
+	8 Happy Juice
+	8 Anxious Model
+	8 Pouncing Strike
+	8 Demon-Obsessed Kooks
+	8 Elevator Station
+	8 Stage Controller
+	8 Aggressive Aura
+	8 Masked Burglar
+	8 Worm Horse
+	8 Desperate Showrunner
+	8 Street Peddler
+	8 Sopping Scarecrow
+	8 Downcast Patron
+	8 Misguided Counselor
+[common | masterpiece(1)]
+	8 Loser, Baby
+	8 Ice of the Beholder
+	8 Laugh it Up
+	8 You're Sloppy
+	8 Squadron Executioner
+	8 Holy Light
+	8 Trap Under Rubble
+	8 Parry
+	8 You're In MY House!
+	8 Grab-o-Tron
+	8 Flame Baton
+	8 Cherry Bomb
+	8 Toxic Bomb
+	8 Smile
+	8 Voxtech™ Voyarscope
+	8 Media Mob
+	8 Voxtech™ Intern
+	8 It Starts With Sorry
+	8 Eggbois
+	8 Good Girl
+	8 Tension
+	8 Respectless
+	8 Eat Lead
+	8 Magictastical Rubber Duck
+	8 Everyone, Twice
+	8 Path To Redemption
+	8 Angelic Dagger
+	8 Angelic Armory
+	8 Angelic Spear
+	8 New Talent
+	8 Angel of the Council
+	8 Relic of Sir Pentious
+	8 Bio Bomb
+	8 Pest Extermination
+	8 Snag
+	8 Impact
+	8 Spectral Knives
+	8 Magician's Box
+	8 Infernal Glamour
+	8 Distracted Bystandard
+	8 Bad With Us
+	8 Lost Hotel Guest
+	8 Woefull Guest
+	8 Joyful Siblings
+	8 Blocked
+	8 Orchard Dryad
+	8 Bug Band
+	8 Brighter
+	8 Realm Sundered
+	8 Heaven Denizens
+	8 Mute
+	8 Exploit Openings
+	8 Slip Into Shadow
+	8 Hell Car
+	8 Reduce to Scrap
+	8 Supportive Mantis
+	8 Spindle Horse
+	8 Man-Meat
+	8 Shameless Slug
+	8 Velvette's Influencer
+	8 Cantankerous Cannibal
+	8 Funeral Caterer
+	8 Ratings Reporter
+	8 Dice Bomb
+	8 CHERUB Agents
+	8 DHORKS Field Agent
+	8 DHORKS Recruit
+	8 Exorcist Striker
+	8 Cannibal Gourmond
+	8 Pinkie Fingers
+	8 Gluttonous Patrons
+	8 Cannibal Town Hosts
+	8 Demon Brute
+	8 Rosie's Waiters
+	8 Extermination Vetran
+	8 Spin Maneuver
+	8 Human Disguise
+	8 Electric Eels
+	8 Deranged Husband
+	8 Hellborn Pitcher
+	8 LooLoo Mascot
+	8 Novelty Cup
+	8 LooLoo Band
+	8 LooLooLand Carnie
+	8 Turn to Stone
+	8 Verosika's Bodyguard
+	8 Tour Guide
+	8 Elderly Oligarch
+	8 Fluffy Friends
+	8 Hellhog
+	8 Hellshark
+	8 Pain Games
+	8 Truth Bomb
+	8 Aggressive Dancer
+	8 Clubgoing Sinner
+	8 Curious Weapons Tester
+	8 Extermination Salvager
+	8 Demonic Referee
+	8 Nightlife Enjoyer
+	8 Happy Juice
+	8 Anxious Model
+	8 Pouncing Strike
+	8 Demon-Obsessed Kooks
+	8 Elevator Station
+	8 Stage Controller
+	8 Aggressive Aura
+	8 Masked Burglar
+	8 Worm Horse
+	8 Desperate Showrunner
+	8 Street Peddler
+	8 Sopping Scarecrow
+	8 Downcast Patron
+	8 Misguided Counselor
+	3 Look at This!
+	3 Klown
+	3 
+[foil(1)]
+	1 Glitz and Glam, Double Trouble
+	1 Two Minutes Notice
+	6 Cotton Candy
+	2 City of Pride
+	1 Beelzebub, Sin of Gluttony
+	6 Beelzebub's Celebration
+	6 Exorcist Sincarvers
+	6 Benevolent Bartender
+	6 Love in a Bottle
+	2 Once We Get Up There
+	1 Mammon, Sin of Greed
+	2 Let the Slaughter Begin
+	6 Jovial Jester
+	12 Loser, Baby
+	6 Exuberant Bombardier
+	6 Wrathi Ranchhand
+	2 Double or Nothing
+	12 Ice of the Beholder
+	12 Laugh it Up
+	6 Gonna Make You Wish That
+	1 When I Think About The Future
+	2 Dark Shield
+	6 Next To Die
+	1 Adam, The First Man
+	1 Make a Deal
+	12 You're Sloppy
+	12 Squadron Executioner
+	12 Holy Light
+	2 Deathray Battleship
+	2 Razzle & Dazzle
+	12 Trap Under Rubble
+	12 Parry
+	12 You're In MY House!
+	2 Sir Pentious, Mastercraft Inventor
+	12 Grab-o-Tron
+	12 Flame Baton
+	12 Cherry Bomb
+	12 Toxic Bomb
+	6 Radio Demon's Conduit
+	12 Smile
+	2 The Fruit Of Knowledge
+	2 Nifty, Queen of Filth
+	12 Voxtech™ Voyarscope
+	12 Media Mob
+	6 Trust Us
+	12 Voxtech™ Intern
+	2 Moneyshot, Val's Handcannon
+	2 Adorable Companion
+	2 Gravity
+	6 Voxtech™ Watch
+	12 It Starts With Sorry
+	6 Skinflayer 11,000
+	6 Whatever It Takes
+	12 Eggbois
+	2 Hear My Hope
+	6 Poison
+	12 Good Girl
+	12 Tension
+	6 Trust Exercises
+	6 Mock
+	12 Respectless
+	1 Alastor, The Radio Demon
+	1 Vox Populi, People's Voice
+	2 Velvette, Trendsetter
+	2 Carmilla, Arms Dealer
+	1 Charlie, Princess of Hell
+	6 Weaponized Cards
+	2 Mobile Armory
+	2 Husk, Highroller
+	12 Eat Lead
+	12 Magictastical Rubber Duck
+	6 Ambition of a Dreamer
+	1 Satan, Sin of Wrath
+	2 More Than Anything
+	12 Everyone, Twice
+	6 I'd Like To Buy You A Drink
+	1 Lucifer, Dreaming King
+	12 Path To Redemption
+	6 Do What Was Required
+	2 You Didn't Know
+	2 Dramatic Revelation
+	2 Vaggie, Fallen Exorcist
+	6 Cannibal Scepter
+	6 Ready For This
+	12 Angelic Dagger
+	12 Angelic Armory
+	12 Angelic Spear
+	6 Eat Shrapnel
+	2 Morningstar Tridant
+	12 New Talent
+	2 Shok.wav
+	6 The Weight of Thousands
+	2 The Angelic Court
+	6 Emily, Compassionate Seraphim
+	12 Angel of the Council
+	2 Sera, Matriarch of Heaven
+	2 Redeem
+	2 Heaven in Lockdown
+	6 Propaganda
+	12 Relic of Sir Pentious
+	2 Determination
+	6 Hell's Fair
+	12 Bio Bomb
+	6 Joint Research Project
+	6 Big Roach
+	12 Pest Extermination
+	2 Airwaves at War
+	12 Snag
+	12 Impact
+	2 Reinforcements Have Arrived
+	12 Spectral Knives
+	12 Magician's Box
+	12 Infernal Glamour
+	6 Curious Cupple
+	12 Distracted Bystandard
+	2 Prick and Hatchet's Fued
+	12 Bad With Us
+	12 Lost Hotel Guest
+	6 Reckless Guest
+	12 Woefull Guest
+	6 I Brought Cookies!
+	6 Gift Basket
+	6 Lucifer's Radiance
+	6 Flame Serpant
+	12 Joyful Siblings
+	12 Blocked
+	1 Vox Dei
+	12 Orchard Dryad
+	6 Scream Lightning
+	12 Bug Band
+	6 Scary Box
+	12 Brighter
+	1 Might of Lillith
+	12 Realm Sundered
+	12 Heaven Denizens
+	2 Vox's Ultimatum
+	12 Mute
+	12 Exploit Openings
+	6 Spike Wave
+	12 Slip Into Shadow
+	2 Shadow of Evil
+	12 Hell Car
+	12 Reduce to Scrap
+	12 Supportive Mantis
+	12 Spindle Horse
+	2 Angel, Delight Sampler
+	2 Baxter, Mad Scientist
+	12 Man-Meat
+	2 Lute, Exorcist Lieutenant
+	6 Abel, Cowardly Commander
+	6 St. Peter, Heaven's Mascot
+	6 Spiteful Oligarch
+	2 Rosie, Delightful Cannibal
+	2 Zestial, Dapper Overlord
+	2 Valintino, Vice King
+	2 KeeKee, Beloved Keeper
+	2 Blitzo, Murder Professional
+	2 Millie, Relentless Brawler
+	2 Moxxie, Tactical Expert
+	6 Unrivaled Presence
+	12 Shameless Slug
+	12 Velvette's Influencer
+	12 Cantankerous Cannibal
+	12 Funeral Caterer
+	6 Frightened Sinner
+	12 Ratings Reporter
+	2 Maestro, Grand Conductor
+	6 Thorned Menace
+	6 Tavern Brawler
+	6 Reluctant Receptionist
+	2 Verosika, Pop Icon
+	2 Fizzarolli, Headline Act
+	2 Azathoth's Tears
+	6 You Will Be OK
+	2 Badlands of Wrath
+	2 Circus of Greed
+	2 Palace of Gluttony
+	2 Spires of Heaven
+	6 Don't You Forget
+	12 Dice Bomb
+	2 We Can Do This
+	2 Stolas, Prince of the Stars
+	12 CHERUB Agents
+	12 DHORKS Field Agent
+	12 DHORKS Recruit
+	6 DHORKS Investigator
+	12 Exorcist Striker
+	12 Cannibal Gourmond
+	12 Pinkie Fingers
+	12 Gluttonous Patrons
+	12 Cannibal Town Hosts
+	12 Demon Brute
+	12 Rosie's Waiters
+	6 Mob Strongarm
+	12 Extermination Vetran
+	6 Exorcist Armorer
+	2 Brute Force
+	6 Exorcist Headcleaver
+	6 Exorcist Painblade
+	6 Angelic Boot Camp
+	2 Exorcist Butcher
+	2 Striker, Hired Assassin
+	12 Spin Maneuver
+	6 Morphine
+	12 Human Disguise
+	2 Wrathi Homesteaders
+	2 Verosika's Mistake
+	2 Cruel Anchorwoman
+	6 Melancholy Clown
+	2 Angelic Rifle
+	12 Electric Eels
+	12 Deranged Husband
+	12 Hellborn Pitcher
+	12 LooLoo Mascot
+	12 Novelty Cup
+	12 LooLoo Band
+	2 Copyright Infringement
+	12 LooLooLand Carnie
+	12 Turn to Stone
+	12 Verosika's Bodyguard
+	1 Loopty, Dastardly Inventor
+	12 Tour Guide
+	12 Elderly Oligarch
+	12 Fluffy Friends
+	2 CHERUB Manager
+	1 Lyle, Robotic Oligarch
+	12 Hellhog
+	12 Hellshark
+	12 Pain Games
+	2 Cursed Moon
+	6 Tranq Gun
+	12 Truth Bomb
+	12 Aggressive Dancer
+	6 Verosika's Bandmate
+	12 Clubgoing Sinner
+	12 Curious Weapons Tester
+	12 Extermination Salvager
+	12 Demonic Referee
+	12 Nightlife Enjoyer
+	2 Cupcake-Loving Child
+	12 Happy Juice
+	2 Alastor's Emergence
+	1 Lillith's Memorial
+	6 Heavin's Probe
+	12 Anxious Model
+	6 Helpful Spawns
+	2 Breaking News
+	6 Mammon's Clown Pageant
+	6 Turf War
+	6 Pain Games
+	6 Founding of Cannibal Town
+	6 The Final Extermination
+	1 Paimon, Goatian King
+	1 Stolas, Wrathwing Sovereign
+	12 Pouncing Strike
+	12 Demon-Obsessed Kooks
+	12 Elevator Station
+	12 Stage Controller
+	12 Aggressive Aura
+	12 Masked Burglar
+	6 Snotty Socalite
+	6 Dazzled Stargazer
+	6 Well-Fed Partier
+	6 Gluttonous Hellhound
+	6 Overstuffed Glutton
+	6 Royal Attendant
+	6 Knife Tosser
+	12 Worm Horse
+	12 Desperate Showrunner
+	6 Insufferable Royal
+	6 Bright-Eyed Goetia
+	12 Street Peddler
+	12 Sopping Scarecrow
+	12 Downcast Patron
+	1 Swarm of Roaches
+	12 Misguided Counselor
+[wildcard(1)]
+	4 Glitz and Glam, Double Trouble
+	4 Two Minutes Notice
+	15 Cotton Candy
+	7 City of Pride
+	4 Beelzebub, Sin of Gluttony
+	15 Beelzebub's Celebration
+	15 Exorcist Sincarvers
+	15 Benevolent Bartender
+	15 Love in a Bottle
+	7 Once We Get Up There
+	4 Mammon, Sin of Greed
+	7 Let the Slaughter Begin
+	15 Jovial Jester
+	6 Loser, Baby
+	15 Exuberant Bombardier
+	15 Wrathi Ranchhand
+	7 Double or Nothing
+	6 Ice of the Beholder
+	6 Laugh it Up
+	15 Gonna Make You Wish That
+	4 When I Think About The Future
+	7 Dark Shield
+	15 Next To Die
+	4 Adam, The First Man
+	4 Make a Deal
+	6 You're Sloppy
+	6 Squadron Executioner
+	6 Holy Light
+	7 Deathray Battleship
+	7 Razzle & Dazzle
+	6 Trap Under Rubble
+	6 Parry
+	6 You're In MY House!
+	7 Sir Pentious, Mastercraft Inventor
+	6 Grab-o-Tron
+	6 Flame Baton
+	6 Cherry Bomb
+	6 Toxic Bomb
+	15 Radio Demon's Conduit
+	6 Smile
+	7 The Fruit Of Knowledge
+	7 Nifty, Queen of Filth
+	6 Voxtech™ Voyarscope
+	6 Media Mob
+	15 Trust Us
+	6 Voxtech™ Intern
+	7 Moneyshot, Val's Handcannon
+	7 Adorable Companion
+	7 Gravity
+	15 Voxtech™ Watch
+	6 It Starts With Sorry
+	15 Skinflayer 11,000
+	15 Whatever It Takes
+	6 Eggbois
+	7 Hear My Hope
+	15 Poison
+	6 Good Girl
+	6 Tension
+	15 Trust Exercises
+	15 Mock
+	6 Respectless
+	4 Alastor, The Radio Demon
+	4 Vox Populi, People's Voice
+	7 Velvette, Trendsetter
+	7 Carmilla, Arms Dealer
+	4 Charlie, Princess of Hell
+	15 Weaponized Cards
+	7 Mobile Armory
+	7 Husk, Highroller
+	6 Eat Lead
+	6 Magictastical Rubber Duck
+	15 Ambition of a Dreamer
+	4 Satan, Sin of Wrath
+	7 More Than Anything
+	6 Everyone, Twice
+	15 I'd Like To Buy You A Drink
+	4 Lucifer, Dreaming King
+	6 Path To Redemption
+	15 Do What Was Required
+	7 You Didn't Know
+	7 Dramatic Revelation
+	7 Vaggie, Fallen Exorcist
+	15 Cannibal Scepter
+	15 Ready For This
+	6 Angelic Dagger
+	6 Angelic Armory
+	6 Angelic Spear
+	15 Eat Shrapnel
+	7 Morningstar Tridant
+	6 New Talent
+	7 Shok.wav
+	15 The Weight of Thousands
+	7 The Angelic Court
+	15 Emily, Compassionate Seraphim
+	6 Angel of the Council
+	7 Sera, Matriarch of Heaven
+	7 Redeem
+	7 Heaven in Lockdown
+	15 Propaganda
+	6 Relic of Sir Pentious
+	7 Determination
+	15 Hell's Fair
+	6 Bio Bomb
+	15 Joint Research Project
+	15 Big Roach
+	6 Pest Extermination
+	7 Airwaves at War
+	6 Snag
+	6 Impact
+	7 Reinforcements Have Arrived
+	6 Spectral Knives
+	6 Magician's Box
+	6 Infernal Glamour
+	15 Curious Cupple
+	6 Distracted Bystandard
+	7 Prick and Hatchet's Fued
+	6 Bad With Us
+	6 Lost Hotel Guest
+	15 Reckless Guest
+	6 Woefull Guest
+	15 I Brought Cookies!
+	15 Gift Basket
+	15 Lucifer's Radiance
+	15 Flame Serpant
+	6 Joyful Siblings
+	6 Blocked
+	4 Vox Dei
+	6 Orchard Dryad
+	15 Scream Lightning
+	6 Bug Band
+	15 Scary Box
+	6 Brighter
+	4 Might of Lillith
+	6 Realm Sundered
+	6 Heaven Denizens
+	7 Vox's Ultimatum
+	6 Mute
+	6 Exploit Openings
+	15 Spike Wave
+	6 Slip Into Shadow
+	7 Shadow of Evil
+	6 Hell Car
+	6 Reduce to Scrap
+	6 Supportive Mantis
+	6 Spindle Horse
+	7 Angel, Delight Sampler
+	7 Baxter, Mad Scientist
+	6 Man-Meat
+	7 Lute, Exorcist Lieutenant
+	15 Abel, Cowardly Commander
+	15 St. Peter, Heaven's Mascot
+	15 Spiteful Oligarch
+	7 Rosie, Delightful Cannibal
+	7 Zestial, Dapper Overlord
+	7 Valintino, Vice King
+	7 KeeKee, Beloved Keeper
+	7 Blitzo, Murder Professional
+	7 Millie, Relentless Brawler
+	7 Moxxie, Tactical Expert
+	15 Unrivaled Presence
+	6 Shameless Slug
+	6 Velvette's Influencer
+	6 Cantankerous Cannibal
+	6 Funeral Caterer
+	15 Frightened Sinner
+	6 Ratings Reporter
+	7 Maestro, Grand Conductor
+	15 Thorned Menace
+	15 Tavern Brawler
+	15 Reluctant Receptionist
+	7 Verosika, Pop Icon
+	7 Fizzarolli, Headline Act
+	7 Azathoth's Tears
+	15 You Will Be OK
+	7 Badlands of Wrath
+	7 Circus of Greed
+	7 Palace of Gluttony
+	7 Spires of Heaven
+	15 Don't You Forget
+	6 Dice Bomb
+	7 We Can Do This
+	7 Stolas, Prince of the Stars
+	6 CHERUB Agents
+	6 DHORKS Field Agent
+	6 DHORKS Recruit
+	15 DHORKS Investigator
+	6 Exorcist Striker
+	6 Cannibal Gourmond
+	6 Pinkie Fingers
+	6 Gluttonous Patrons
+	6 Cannibal Town Hosts
+	6 Demon Brute
+	6 Rosie's Waiters
+	15 Mob Strongarm
+	6 Extermination Vetran
+	15 Exorcist Armorer
+	7 Brute Force
+	15 Exorcist Headcleaver
+	15 Exorcist Painblade
+	15 Angelic Boot Camp
+	7 Exorcist Butcher
+	7 Striker, Hired Assassin
+	6 Spin Maneuver
+	15 Morphine
+	6 Human Disguise
+	7 Wrathi Homesteaders
+	7 Verosika's Mistake
+	7 Cruel Anchorwoman
+	15 Melancholy Clown
+	7 Angelic Rifle
+	6 Electric Eels
+	6 Deranged Husband
+	6 Hellborn Pitcher
+	6 LooLoo Mascot
+	6 Novelty Cup
+	6 LooLoo Band
+	7 Copyright Infringement
+	6 LooLooLand Carnie
+	6 Turn to Stone
+	6 Verosika's Bodyguard
+	4 Loopty, Dastardly Inventor
+	6 Tour Guide
+	6 Elderly Oligarch
+	6 Fluffy Friends
+	7 CHERUB Manager
+	4 Lyle, Robotic Oligarch
+	6 Hellhog
+	6 Hellshark
+	6 Pain Games
+	7 Cursed Moon
+	15 Tranq Gun
+	6 Truth Bomb
+	6 Aggressive Dancer
+	15 Verosika's Bandmate
+	6 Clubgoing Sinner
+	6 Curious Weapons Tester
+	6 Extermination Salvager
+	6 Demonic Referee
+	6 Nightlife Enjoyer
+	7 Cupcake-Loving Child
+	6 Happy Juice
+	7 Alastor's Emergence
+	4 Lillith's Memorial
+	15 Heavin's Probe
+	6 Anxious Model
+	15 Helpful Spawns
+	7 Breaking News
+	15 Mammon's Clown Pageant
+	15 Turf War
+	15 Pain Games
+	15 Founding of Cannibal Town
+	15 The Final Extermination
+	4 Paimon, Goatian King
+	4 Stolas, Wrathwing Sovereign
+	6 Pouncing Strike
+	6 Demon-Obsessed Kooks
+	6 Elevator Station
+	6 Stage Controller
+	6 Aggressive Aura
+	6 Masked Burglar
+	15 Snotty Socalite
+	15 Dazzled Stargazer
+	15 Well-Fed Partier
+	15 Gluttonous Hellhound
+	15 Overstuffed Glutton
+	15 Royal Attendant
+	15 Knife Tosser
+	6 Worm Horse
+	6 Desperate Showrunner
+	15 Insufferable Royal
+	15 Bright-Eyed Goetia
+	6 Street Peddler
+	6 Sopping Scarecrow
+	6 Downcast Patron
+	4 Swarm of Roaches
+	6 Misguided Counselor
