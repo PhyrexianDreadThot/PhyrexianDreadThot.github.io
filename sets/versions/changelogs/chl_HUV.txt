@@ -1,4 +1,275 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+When I Think About the Future added.
+The Fruit of Knowledge added.
+I'd Like to Buy You a Drink added.
+Nifty's Swarm of Roaches added.
+Voice of added.
+Hazbin Hotel added.
+Asmodian Crystal added.
+Cannibal Town Socalite added.
+Aspiring Pageanteer added.
+Acrobatic Clown added.
+Happy Day in Hell added.
+Juggeling is Cool added.
+Clean It Up added.
+Speedrun to Redemption added.
+A Love Song added.
+Like You added.
+Hazbin Guarantee added.
+Out For Love added.
+Welcome to Heaven added.
+Hell's Greatest Dad added.
+Hell Is Forever added.
+Crooked added.
+Look My Way added.
+Live to Live added.
+Easy added.
+Losing Streak added.
+Indulgence added.
+Spelljar added.
+Stolas's Grimoire added.
+Angel added.
+Food added.
+Food added.
+Clue added.
+Egg added.
+Insect added.
+Knife added.
+Incarnation added.
+Treasure added.
+Bird added.
+Imp added.
+Demon added.
+Demon added.
+Pistol added.
+Rat added.
+Angelic Battleaxe added.
+
+When I Think About The Future removed.
+The Fruit Of Knowledge removed.
+I'd Like To Buy You A Drink removed.
+Swarm of Roaches removed.
+Voice Of removed.
+
+Benevolent Bartender
+cost: {B}{G} => {1}{B}{G}
+rules_text: Trample
+Whenever another creature enters, its controller gains 1 life.
+Whenever an opponent gains life, put a +1/+1 counter on this creature. => Trample
+Whenever another creature enters, its controller gains 1 life.
+Whenever an opponent gains life for the first time each turn, they get an indulgence counter. Put a +1/+1 counter on this creature. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Cherry Bomb
+rules_text: {1}{R}, Sacrifice this artifact: Choose one—
+• Draw a card.
+• Target creature gains haste until end of turn.
+• It deals 3 damage to any target. => {1}{R}, Sacrifice this artifact: Choose one—
+• Draw a card.
+• It deals 3 damage to any target.
+• Target creature gains haste until end of turn.
+
+Toxic Bomb
+rules_text: {1}{B}, Sacrifice this artifact: Choose one—
+• Target creature gets -3/-3 until end of turn.
+• Draw a card.
+• Exile target player's graveyard. => {1}{B}, Sacrifice this artifact: Choose one—
+• Draw a card.
+• Exile target player's graveyard.
+• Target creature gets -3/-3 until end of turn.
+
+Poison
+rules_text: Musical [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+Until your next turn, whenever an opponent gains life, they lose that much life instead.
+Each player gains X life. => Musical [i](As an additional cost to cast this spell, tap X untapped nontoken creatures you control. X starts at 1.)[/i]
+Until your next turn, whenever an opponent gains life, they get an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+Each player gains X life.
+
+Bio Bomb
+rules_text: {1}{G}, Sacrifice this artifact: Choose one—
+• Put two +1/+1 counters on target creature.
+• Destroy target artifact.
+• Draw a card. => {1}{G}, Sacrifice this artifact: Choose one—
+• Draw a card.
+• Destroy target artifact.
+• Put two +1/+1 counters on target creature.
+
+Big Roach
+rules_text: Whenever an opponent gains life, you draw a card and lose 1 life. This ability triggers only once each turn. => Whenever an opponent gains life, you draw a card and lose 1 life. This ability triggers only once each turn.
+When this creature dies, each opponent gets two indulgence counters. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Airwaves at War
+rules_text: As this enchantment enters, choose Radio or Television.
+• Radio — At the beginning of your end step, create one 1/1 black Incarnation creature token.
+• Television — At the beginning of your upkeep, mill three cards. Return up to one artifact card from among them to your hand. => As this enchantment enters, choose Radio or Television.
+• Radio — At the beginning of your end step, create a 1/1 black Incarnation creature token.
+• Video — At the beginning of your upkeep, mill three cards. Return up to one artifact card from among them to your hand.
+
+I Brought Cookies!
+rules_text: When this enchantment enters, create a Food token.
+Whenever you partake, put a +1/+1 counter on target creature. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => When this enchantment enters, each player gains 3 life and you draw a card. Each opponent gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+Whenever you gain life, put a +1/+1 counter on target creature.
+
+Joyful Siblings
+rules_text: When this creature enters, target opponent gains 3 life and you draw a card. => When this creature enters, target player gains 3 life and you draw a card.
+
+Vox Dei
+cost: {5}{U}{U}{U} => {3}{U}{U}{U}
+
+Scream Lightning
+rules_text: This spell deals 3 damage to any target. Draw a card, then discard a card. => Scream Lightning deals 3 damage to any target. Draw a card, then discard a card.
+
+Angel, Delight Sampler
+cost: {2}{B}{G} => {1}{B}{G}
+rules_text: Reach, deathtouch
+If an opponent gains life, they lose twice that much life at the beginning of the next end step.
+Whenever a creature dies, its controller gains 1 life. => Reach, deathtouch
+Whenever Angel deals combat damage to a player, that player gets two indulgence counters and creates a Food token. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Rosie, Delightful Cannibal
+rules_text: Whenever a player partakes, put a +1/+1 counter on each creature you control and untap them. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => Creatures you control get +1/+1 for each indulgence counter your opponents have. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+Whenever an opponent gains life, untap each creature you control.
+
+Shameless Slug
+rules_text: Whenever this creature attacks, you may pay 1 life. If you do, each opponent loses 1 life and this creature gains menace. => Whenever this creature blocks, you may pay 1 life. If you do, each opponent loses 1 life and this creature gains deathtouch.
+
+Cantankerous Cannibal
+rules_text: Whenever another creature dies, each opponent loses 1 life and you gain 1 life. => Whenever a nontoken creature an opponent controls dies, each opponent gets an indulgence counter and each player gains 1 life. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Dice Bomb
+rules_text: {1}{W}, Sacrifice this artifact: Choose one—
+• Destroy target tapped creature.
+• Destroy target enchantment.
+• Draw a card. => {1}{W}, Sacrifice this artifact: Choose one—
+• Draw a card.
+• Destroy target enchantment.
+• Destroy target tapped creature.
+
+Cannibal Gourmond
+rules_text: Whenever an opponent partakes, that player loses 3 life. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => When this creature deals combat damage to a player, if that player gained life this turn, that player gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Pinkie Fingers
+rules_text: When this artifact enters, each opponent discards a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life. => When this artifact enters, each opponent discards a card.
+{2}, {T}, Sacrifice this artifact: You gain 3 life. Each opponent gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Gluttonous Patrons
+rules_text: Whenever an opponent partakes, that player loses 2 life. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => Whenever a nontoken creature an opponent controls dies, its controller gets an indulgence counter. This ability triggers only once each turn. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Demon Brute
+rules_text: Whenever you partake, this creature gets +2/+2 until end of turn. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => Whenever you gain life for the first time each turn, this creature gets +2/+2 until end of turn.
+
+Rosie's Waiters
+rules_text: Whenever you partake, each opponent loses 1 life. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => When this creature enters, each opponent gains 3 life and gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Mob Strongarm
+rules_text: Menace
+When this creature enters, create a colorless artifact Equipment token named Pistol. It has “equipped creature gets +1/+1.” and “Equip {1}.”
+Whenever this creature attacks, if it's equipped, each opponent loses 1 life. => Menace
+When this creature enters, create a colorless artifact Equipment token named Pistol. It has “Equipped creature gets +1/+1.” and “Equip {1}.”
+Whenever this creature attacks, if it's equipped, each opponent loses 1 life.
+
+Cruel Anchorwoman
+rules_text: At the beginning of your upkeep, each player gains 2 life.
+Whenever an opponent partakes, that player sacrifices a creature unless they pay 3 life. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => At the beginning of your upkeep, any number of target players gain 2 life.
+At the beginning of each end step, if an opponent gained 3 or more life this turn, that player gets two indulgence counters. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Electric Eels
+rules_text: Whenever a nontoken artifact enters under your control, this creature deals 1 damage to target opponent. => Whenever a artifact enters under your control, this creature deals 1 damage to target opponent.
+
+Loopty, Dastardly Inventor
+rules_text: Whenever you cast an instant or sorcery spell with mana value 3 or less, exile it as it resolves. When you do, create a colorless artifact token named Spell Jar. It gains “At the beginning of your upkeep, you may cast a copy of the exiled card without paying its mana cost.” => Whenever you cast an instant or sorcery spell with mana value 3 or less, exile it as it resolves. When you do, create a colorless artifact token named Spell Jar with “At the beginning of your upkeep, you may cast a copy of the exiled card without paying its mana cost.”
+
+Fluffy Friends
+rules_text: When this creature enters, you gain 2 life. => When this creature enters, target player gains 2 life.
+
+Extermination Salvager
+rules_text: When this creature attacks, exile target creature card from a graveyard. Its owner gains 3 life. => When this creature attacks, exile target creature card from a graveyard. Its owner gains 3 life and gets two indulgence counters. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Helpful Spawns
+type: Creature — Demon => Creature — Incarnation
+
+Pain Games
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 1/1 red and white Imp creature tokens with first strike.
+III — Creatures you control gain menace and get +1/+1 for each combat ability they have until end of turn. [i](Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+II — Create two 1/1 red and white Imp creature tokens with first strike.
+III — Creatures you control gain menace and get +1/+1 for each combat ability they have until end of turn. [i](Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 1/1 red and white Imp creature tokens with first strike.
+III — Creatures you control gain menace and get +1/+1 for each combat ability they have until end of turn. [i](Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+II — Create two 1/1 red and white Imp creature tokens with first strike.
+III — Creatures you control gain menace and get +1/+1 for each combat ability they have until end of turn. [i](Flying, deathtouch, first strike, double strike, haste, lifelink, menace, reach, trample, and vigilance are combat abilities.)[/i]
+​
+
+Founding of Cannibal Town
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Demon creature tokens, then each opponent sacrifices a nontoken creature.
+II — This enchantment gains “Whenever an opponent gains life, that player loses 2 life for each creature you control.”
+III — Exile all creature cards from all graveyards. Each player gains 3 life for each card they own exiled this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Demon creature tokens, then each opponent sacrifices a nontoken creature.
+II — This enchantment gains “Whenever an opponent gains life, that player gets an indulgence counter.” [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+III — Exile all creature cards from all graveyards. When a creature card is exiled this way, its controller gains 3 life.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Demon creature tokens, then each opponent sacrifices a nontoken creature.
+II — This enchantment gains “Whenever an opponent gains life, that player loses 2 life for each creature you control.”
+III — Exile all creature cards from all graveyards. Each player gains 3 life for each card they own exiled this way. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two 1/1 black Demon creature tokens, then each opponent sacrifices a nontoken creature.
+II — This enchantment gains “Whenever an opponent gains life, that player gets an indulgence counter.” [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+III — Exile all creature cards from all graveyards. When a creature card is exiled this way, its controller gains 3 life.
+
+Dazzled Stargazer
+rules_text: Whenever a creature performs, its controller gains 3 life. [i](Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)[/i]
+Whenever a player partakes, put a +1/+1 counter on this creature. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => Whenever a creature performs, its controller gains 3 life. [i](Whenever a creature becomes tapped or untapped during a main phase, that creature performs.)[/i]
+Whenever you gain life for the first time each turn, each opponent gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Well-Fed Partier
+rules_text: Trample
+When this creature attacks, defending player gains 3 life.
+Whenever an opponent partakes, put two +1/+1 counters on this creature. [i](At the beginning of the end step, if a player sacrificed a Food or gained 3 or more life this turn, that player partakes.)[/i] => Trample
+When this creature attacks, defending player gains 3 life and gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+Whenever an opponent gains life, put two +1/+1 counters on this creature.
+
+Overstuffed Glutton
+rules_text: When this creature enters, you may pay 3 life or sacrifice a Food. When you do, destroy target creature an opponent controls. Its controller gains 3 life. => When this creature enters, you may pay 3 life or sacrifice a Food. When you do, destroy target creature an opponent controls. Its controller gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Knife Tosser
+rules_text: First strike
+At the beginning of your upkeep, create a colorless artifact token named Knife with “{R}, Sacrifice this artifact: It deals 1 damage to any target.” => First strike
+At the beginning of your upkeep, create a colorless artifact token named Knife with “{R}, {T}, Sacrifice this artifact: It deals 1 damage to any target.”
+
+Sopping Scarecrow
+rules_text: Whenever an opponent gains life, this creature gets +1/+0 until end of turn. => Whenever an opponent gains life, this creature gets +1/+0 until end of turn and that opponent gets an indulgence counter. [i](At the beginning of each players end step, that player loses life equal to the number of indulgence counters they have.)[/i]
+
+Look at This!
+
+
+type: Legendary Creature — Merfolk Imp Clown => 
+cost: {2}{G}{U} => 
+rules_text: Whenever a player taps a land for mana, add one mana of any color.
+Whenever a player draws their second card each turn, draw a card. => 
+pt: 3/4 => 
+
+Addicted
+rules_text: Musical
+When you cast this spell, exile it with X time counters on it. It gains suspend.
+When a time counter is removed from this spell, each player creates Food token.
+Whenever a player partakes, if this spell has at least one time counter on it, that player sacrifices a creature. => Musical
+When you cast this spell, exile it with X time counters on it. It gains suspend.
+When a time counter is removed from this spell, each player creates Food token.
+At the beginning of each endstep, if a player partook this turn and if this spell has at least one time counter on it, that player discards a card.
+
+Vee Tower
+rules_text: {T}: Add {U}
+{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts. => {T}: Add {C}
+{X}, {T}, Sacrifice a nontoken artifact: Search your library for an artifact card with mana value X, put it onto the battlefield, then shuffle.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Voice Of added.

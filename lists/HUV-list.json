@@ -32,8 +32,8 @@
         "position": "225"
     },
     {
-        "card_name": "Swarm of Roaches",
-        "number": 158,
+        "card_name": "Nifty's Swarm of Roaches",
+        "number": 154,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -176,7 +176,7 @@
         "position": "100"
     },
     {
-        "card_name": "The Fruit Of Knowledge",
+        "card_name": "The Fruit of Knowledge",
         "number": 77,
         "shape": "normal",
         "set": "HUV",
@@ -313,7 +313,7 @@
     },
     {
         "card_name": "Reinforcements Have Arrived",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -592,7 +592,7 @@
         "position": "51"
     },
     {
-        "card_name": "I'd Like To Buy You A Drink",
+        "card_name": "I'd Like to Buy You a Drink",
         "number": 145,
         "shape": "normal",
         "set": "HUV",
@@ -1193,7 +1193,7 @@
     },
     {
         "card_name": "Orchard Dryad",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1233,7 +1233,7 @@
     },
     {
         "card_name": "Path To Redemption",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1273,7 +1273,7 @@
     },
     {
         "card_name": "Spindle Horse",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1323,8 +1323,8 @@
     },
     "a->gold",
     {
-        "card_name": "Voice Of",
-        "number": 220,
+        "card_name": "Voice of",
+        "number": 223,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1332,7 +1332,7 @@
     },
     {
         "card_name": "Airwaves at War",
-        "number": 228,
+        "number": 231,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1340,7 +1340,7 @@
     },
     {
         "card_name": "Once We Get Up There",
-        "number": 201,
+        "number": 204,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1348,7 +1348,7 @@
     },
     {
         "card_name": "Gonna Make You Wish That",
-        "number": 188,
+        "number": 191,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1356,7 +1356,7 @@
     },
     {
         "card_name": "We Can Do This",
-        "number": 221,
+        "number": 224,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1367,7 +1367,7 @@
     },
     {
         "card_name": "Don't You Forget",
-        "number": 177,
+        "number": 180,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1399,7 +1399,7 @@
     },
     {
         "card_name": "Adam, The First Man",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1407,7 +1407,7 @@
     },
     {
         "card_name": "Lucifer, Dreaming King",
-        "number": 194,
+        "number": 197,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1415,7 +1415,7 @@
     },
     {
         "card_name": "Beelzebub, Sin of Gluttony",
-        "number": 170,
+        "number": 172,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1423,7 +1423,7 @@
     },
     {
         "card_name": "Satan, Sin of Wrath",
-        "number": 207,
+        "number": 210,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1431,7 +1431,7 @@
     },
     {
         "card_name": "Mammon, Sin of Greed",
-        "number": 196,
+        "number": 199,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1439,7 +1439,7 @@
     },
     {
         "card_name": "Exorcist Butcher",
-        "number": 180,
+        "number": 183,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1447,7 +1447,7 @@
     },
     {
         "card_name": "Brute Force",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1455,7 +1455,7 @@
     },
     {
         "card_name": "Angel, Delight Sampler",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1463,7 +1463,7 @@
     },
     {
         "card_name": "Moxxie, Tactical Expert",
-        "number": 200,
+        "number": 203,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1471,7 +1471,7 @@
     },
     {
         "card_name": "Baxter, Mad Scientist",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1479,7 +1479,7 @@
     },
     {
         "card_name": "Gravity",
-        "number": 189,
+        "number": 192,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1487,23 +1487,23 @@
     },
     {
         "card_name": "Deathray Battleship",
-        "number": 176,
+        "number": 179,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "28"
     },
     {
-        "card_name": "Cruel Anchorwoman",
-        "number": 175,
+        "card_name": "Cannibal Town Socalite",
+        "number": 177,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "207"
+        "position": "289"
     },
     {
         "card_name": "Prick and Hatchet's Fued",
-        "number": 204,
+        "number": 207,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1511,7 +1511,7 @@
     },
     {
         "card_name": "Fizzarolli, Headline Act",
-        "number": 186,
+        "number": 189,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1519,7 +1519,7 @@
     },
     {
         "card_name": "Lute, Exorcist Lieutenant",
-        "number": 195,
+        "number": 198,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1527,23 +1527,23 @@
     },
     {
         "card_name": "Husk, Highroller",
-        "number": 190,
+        "number": 193,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "68"
     },
     {
-        "card_name": "Rosie, Delightful Cannibal",
-        "number": 206,
+        "card_name": "Cruel Anchorwoman",
+        "number": 178,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "152"
+        "position": "207"
     },
     {
         "card_name": "Striker, Hired Assassin",
-        "number": 212,
+        "number": 215,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1551,7 +1551,7 @@
     },
     {
         "card_name": "Verosika's Mistake",
-        "number": 219,
+        "number": 222,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1559,7 +1559,7 @@
     },
     {
         "card_name": "You Didn't Know",
-        "number": 225,
+        "number": 228,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1567,23 +1567,23 @@
     },
     {
         "card_name": "Sir Pentious, Mastercraft Inventor",
-        "number": 209,
+        "number": 212,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "33"
     },
     {
-        "card_name": "Beelzebub's Celebration",
-        "number": 171,
+        "card_name": "Rosie, Delightful Cannibal",
+        "number": 209,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "5"
+        "position": "152"
     },
     {
         "card_name": "Wrathi Homesteaders",
-        "number": 223,
+        "number": 226,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1591,7 +1591,7 @@
     },
     {
         "card_name": "Zestial, Dapper Overlord",
-        "number": 226,
+        "number": 229,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1599,7 +1599,7 @@
     },
     {
         "card_name": "Angelic Boot Camp",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1607,39 +1607,39 @@
     },
     {
         "card_name": "Ambition of a Dreamer",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "71"
     },
     {
-        "card_name": "Benevolent Bartender",
-        "number": 172,
+        "card_name": "Beelzebub's Celebration",
+        "number": 173,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "7"
+        "position": "5"
     },
     {
         "card_name": "Morphine",
-        "number": 199,
+        "number": 202,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "203"
     },
     {
-        "card_name": "Jovial Jester",
-        "number": 192,
+        "card_name": "Acrobatic Clown",
+        "number": 164,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "12"
+        "position": "291"
     },
     {
         "card_name": "Exorcist Bloodforger",
-        "number": 179,
+        "number": 182,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1647,39 +1647,39 @@
     },
     {
         "card_name": "Eat Shrapnel",
-        "number": 178,
+        "number": 181,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "87"
     },
     {
-        "card_name": "Big Roach",
-        "number": 173,
+        "card_name": "Benevolent Bartender",
+        "number": 174,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "104"
+        "position": "7"
     },
     {
         "card_name": "Pain Games",
-        "number": 202,
+        "number": 205,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
         "position": "249"
     },
     {
-        "card_name": "Mammon's Clown Pageant",
-        "number": 197,
-        "shape": "saga",
+        "card_name": "Aspiring Pageanteer",
+        "number": 169,
+        "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "247"
+        "position": "290"
     },
     {
         "card_name": "Exorcist Headcleaver",
-        "number": 181,
+        "number": 184,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1687,39 +1687,39 @@
     },
     {
         "card_name": "Exuberant Bombardier",
-        "number": 184,
+        "number": 187,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "14"
     },
     {
-        "card_name": "Founding of Cannibal Town",
-        "number": 187,
-        "shape": "saga",
+        "card_name": "Big Roach",
+        "number": 175,
+        "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "250"
+        "position": "104"
     },
     {
         "card_name": "Reckless Guest",
-        "number": 205,
+        "number": 208,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "118"
     },
     {
-        "card_name": "Melancholy Clown",
-        "number": 198,
+        "card_name": "Jovial Jester",
+        "number": 195,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "208"
+        "position": "12"
     },
     {
         "card_name": "Exorcist Painblade",
-        "number": 182,
+        "number": 185,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1727,39 +1727,39 @@
     },
     {
         "card_name": "Joint Research Project",
-        "number": 191,
+        "number": 194,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "103"
     },
     {
-        "card_name": "Love in a Bottle",
-        "number": 193,
-        "shape": "normal",
+        "card_name": "Founding of Cannibal Town",
+        "number": 190,
+        "shape": "saga",
         "set": "HUV",
         "rotated": false,
-        "position": "8"
+        "position": "250"
     },
     {
         "card_name": "Tavern Brawler",
-        "number": 214,
+        "number": 217,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "168"
     },
     {
-        "card_name": "Trust Exercises",
-        "number": 217,
-        "shape": "normal",
+        "card_name": "Mammon's Clown Pageant",
+        "number": 200,
+        "shape": "saga",
         "set": "HUV",
         "rotated": false,
-        "position": "58"
+        "position": "247"
     },
     {
         "card_name": "Exorcist Sincarvers",
-        "number": 183,
+        "number": 186,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1767,39 +1767,39 @@
     },
     {
         "card_name": "Scream Lightning",
-        "number": 208,
+        "number": 211,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "128"
     },
     {
-        "card_name": "Poison",
-        "number": 203,
+        "card_name": "Love in a Bottle",
+        "number": 196,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "55"
+        "position": "8"
     },
     {
         "card_name": "Thorned Menace",
-        "number": 215,
+        "number": 218,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "167"
     },
     {
-        "card_name": "Bad With Us",
-        "number": 168,
+        "card_name": "Melancholy Clown",
+        "number": 201,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "116"
+        "position": "208"
     },
     {
         "card_name": "The Final Extermination",
-        "number": 185,
+        "number": 188,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -1807,39 +1807,39 @@
     },
     {
         "card_name": "Turf War",
-        "number": 218,
+        "number": 221,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
         "position": "248"
     },
     {
-        "card_name": "Supportive Mantis",
-        "number": 213,
+        "card_name": "Poison",
+        "number": 206,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "143"
+        "position": "55"
     },
     {
         "card_name": "Wrathi Ranchhand",
-        "number": 224,
+        "number": 227,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "15"
     },
     {
-        "card_name": "Distracted Bystandard",
-        "number": 233,
+        "card_name": "Trust Exercises",
+        "number": 220,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "114"
+        "position": "58"
     },
     {
         "card_name": "Trap Under Rubble",
-        "number": 216,
+        "number": 219,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1847,39 +1847,39 @@
     },
     {
         "card_name": "Street Peddler",
-        "number": 211,
+        "number": 214,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "271"
     },
     {
-        "card_name": "Bug Band",
-        "number": 229,
+        "card_name": "Supportive Mantis",
+        "number": 216,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "129"
+        "position": "143"
     },
     {
         "card_name": "Spin Maneuver",
-        "number": 210,
+        "number": 213,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "202"
     },
     {
-        "card_name": "New Talent",
-        "number": 238,
+        "card_name": "Bad With Us",
+        "number": 170,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "89"
+        "position": "116"
     },
     {
         "card_name": "CHERUB Agents",
-        "number": 231,
+        "number": 234,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1887,39 +1887,39 @@
     },
     {
         "card_name": "Infernal Glamour",
-        "number": 235,
+        "number": 238,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "112"
     },
     {
-        "card_name": "Cannibal Town Hosts",
-        "number": 230,
+        "card_name": "Bug Band",
+        "number": 232,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "190"
+        "position": "129"
     },
     {
         "card_name": "Aggressive Aura",
-        "number": 227,
+        "number": 230,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "258"
     },
     {
-        "card_name": "Worm Horse",
-        "number": 242,
+        "card_name": "Distracted Bystandard",
+        "number": 236,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "267"
+        "position": "114"
     },
     {
         "card_name": "Demon-Obsessed Kooks",
-        "number": 232,
+        "number": 235,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1927,34 +1927,39 @@
     },
     {
         "card_name": "Masked Burglar",
-        "number": 237,
+        "number": 240,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "259"
     },
     {
-        "card_name": "Joyful Siblings",
-        "number": 236,
+        "card_name": "Cannibal Town Hosts",
+        "number": 233,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
-        "position": "124"
+        "position": "190"
     },
     {
         "card_name": "Tuned Overlord",
-        "number": 240,
+        "number": 243,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "147"
     },
     {
-        "card_name": "e"
+        "card_name": "New Talent",
+        "number": 241,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "89"
     },
     {
         "card_name": "Extermination Vetran",
-        "number": 234,
+        "number": 237,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -1962,25 +1967,35 @@
     },
     {
         "card_name": "Ratings Reporter",
-        "number": 239,
+        "number": 242,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "165"
     },
     {
-        "card_name": "e"
+        "card_name": "Joyful Siblings",
+        "number": 239,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "124"
     },
     {
         "card_name": "Verosika's Bodyguard",
-        "number": 241,
+        "number": 244,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "219"
     },
     {
-        "card_name": "e"
+        "card_name": "Worm Horse",
+        "number": 245,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "267"
     },
     {
         "card_name": "er"
@@ -1996,8 +2011,8 @@
     },
     "a->colorless",
     {
-        "card_name": "When I Think About The Future",
-        "number": 222,
+        "card_name": "When I Think About the Future",
+        "number": 225,
         "shape": "saga",
         "set": "HUV",
         "rotated": false,
@@ -2005,7 +2020,7 @@
     },
     {
         "card_name": "Lillith's Memorial",
-        "number": 256,
+        "number": 260,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2013,7 +2028,7 @@
     },
     {
         "card_name": "Might of Lillith",
-        "number": 257,
+        "number": 261,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2021,7 +2036,7 @@
     },
     {
         "card_name": "Morningstar Tridant",
-        "number": 260,
+        "number": 264,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2029,7 +2044,7 @@
     },
     {
         "card_name": "Angelic Rifle",
-        "number": 245,
+        "number": 248,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2037,7 +2052,7 @@
     },
     {
         "card_name": "Mobile Armory",
-        "number": 258,
+        "number": 262,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2045,7 +2060,7 @@
     },
     {
         "card_name": "Moneyshot, Val's Handcannon",
-        "number": 259,
+        "number": 263,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2053,7 +2068,7 @@
     },
     {
         "card_name": "Cannibal Scepter",
-        "number": 248,
+        "number": 252,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2061,7 +2076,7 @@
     },
     {
         "card_name": "Radio Demon's Conduit",
-        "number": 262,
+        "number": 266,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2069,7 +2084,7 @@
     },
     {
         "card_name": "Tranq Gun",
-        "number": 265,
+        "number": 269,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2077,7 +2092,7 @@
     },
     {
         "card_name": "Voxtech\u2122 Watch",
-        "number": 267,
+        "number": 271,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2085,7 +2100,7 @@
     },
     {
         "card_name": "Weaponized Cards",
-        "number": 268,
+        "number": 272,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2093,7 +2108,7 @@
     },
     {
         "card_name": "Angelic Armory",
-        "number": 243,
+        "number": 246,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2101,7 +2116,7 @@
     },
     {
         "card_name": "Angelic Dagger",
-        "number": 244,
+        "number": 247,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2109,15 +2124,23 @@
     },
     {
         "card_name": "Angelic Spear",
-        "number": 246,
+        "number": 249,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "86"
     },
     {
+        "card_name": "Asmodian Crystal",
+        "number": 250,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "288"
+    },
+    {
         "card_name": "Bio Bomb",
-        "number": 247,
+        "number": 251,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2125,7 +2148,7 @@
     },
     {
         "card_name": "Cherry Bomb",
-        "number": 249,
+        "number": 253,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2133,7 +2156,7 @@
     },
     {
         "card_name": "Dice Bomb",
-        "number": 250,
+        "number": 254,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2141,7 +2164,7 @@
     },
     {
         "card_name": "Eggbois",
-        "number": 251,
+        "number": 255,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2149,7 +2172,7 @@
     },
     {
         "card_name": "Flame Baton",
-        "number": 252,
+        "number": 256,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2157,7 +2180,7 @@
     },
     {
         "card_name": "Grab-o-Tron",
-        "number": 253,
+        "number": 257,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2165,7 +2188,7 @@
     },
     {
         "card_name": "Hell Car",
-        "number": 254,
+        "number": 258,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2173,7 +2196,7 @@
     },
     {
         "card_name": "Ice of the Beholder",
-        "number": 255,
+        "number": 259,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2181,7 +2204,7 @@
     },
     {
         "card_name": "Novelty Cup",
-        "number": 261,
+        "number": 265,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2189,7 +2212,7 @@
     },
     {
         "card_name": "Relic of Sir Pentious",
-        "number": 263,
+        "number": 267,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2197,7 +2220,7 @@
     },
     {
         "card_name": "Toxic Bomb",
-        "number": 264,
+        "number": 268,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2205,47 +2228,11 @@
     },
     {
         "card_name": "Truth Bomb",
-        "number": 266,
+        "number": 270,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "231"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    "a->land",
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vee Tower",
-        "number": 276,
-        "shape": "normal",
-        "set": "HUV",
-        "rotated": false,
-        "position": "286"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2270,7 +2257,7 @@
     },
     {
         "card_name": "Spires of Heaven",
-        "number": 275,
+        "number": 280,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2278,7 +2265,7 @@
     },
     {
         "card_name": "City of Pride",
-        "number": 271,
+        "number": 275,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2286,7 +2273,7 @@
     },
     {
         "card_name": "Palace of Gluttony",
-        "number": 274,
+        "number": 279,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2294,7 +2281,7 @@
     },
     {
         "card_name": "Badlands of Wrath",
-        "number": 269,
+        "number": 273,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2302,7 +2289,7 @@
     },
     {
         "card_name": "Circus of Greed",
-        "number": 270,
+        "number": 274,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2324,8 +2311,24 @@
         "card_name": "er"
     },
     {
+        "card_name": "Vee Tower",
+        "number": 281,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "Hazbin Hotel",
+        "number": 277,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "287"
+    },
+    {
         "card_name": "Hell's Fair",
-        "number": 273,
+        "number": 278,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2333,17 +2336,11 @@
     },
     {
         "card_name": "Elevator Station",
-        "number": 272,
+        "number": 276,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "256"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2365,7 +2362,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 281,
+        "number": 286,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2373,7 +2370,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 280,
+        "number": 285,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2381,7 +2378,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 277,
+        "number": 282,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2389,7 +2386,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 279,
+        "number": 284,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2397,11 +2394,179 @@
     },
     {
         "card_name": "Island",
-        "number": 278,
+        "number": 283,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "276"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Indulgence",
+        "number": 1,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "308"
+    },
+    {
+        "card_name": "Angelic Battleaxe",
+        "number": 10,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "Clue",
+        "number": 11,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "314"
+    },
+    {
+        "card_name": "Egg",
+        "number": 12,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "315"
+    },
+    {
+        "card_name": "Food",
+        "number": 13,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "312"
+    },
+    {
+        "card_name": "Food",
+        "number": 14,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "Knife",
+        "number": 15,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "Pistol",
+        "number": 16,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "Spelljar",
+        "number": 17,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "309"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 18,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "319"
+    },
+    {
+        "card_name": "Stolas's Grimoire",
+        "number": 1,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "310"
+    },
+    {
+        "card_name": "Demon",
+        "number": 2,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "Demon",
+        "number": 3,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "323"
+    },
+    {
+        "card_name": "Incarnation",
+        "number": 4,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "318"
+    },
+    {
+        "card_name": "Rat",
+        "number": 5,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "325"
+    },
+    {
+        "card_name": "Bird",
+        "number": 6,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Angel",
+        "number": 7,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "311"
+    },
+    {
+        "card_name": "Imp",
+        "number": 8,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "Insect",
+        "number": 9,
+        "shape": "token",
+        "set": "HUV",
+        "rotated": false,
+        "position": "316"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2425,16 +2590,136 @@
         "position": "283"
     },
     {
-        "card_name": "Klown",
+        "card_name": "Clean It Up",
         "number": 2,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "294"
+    },
+    {
+        "card_name": "Crooked",
+        "number": 3,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "303"
+    },
+    {
+        "card_name": "Easy",
+        "number": 4,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "Happy Day in Hell",
+        "number": 5,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "292"
+    },
+    {
+        "card_name": "Hazbin Guarantee",
+        "number": 6,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "298"
+    },
+    {
+        "card_name": "Hell Is Forever",
+        "number": 7,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "Hell's Greatest Dad",
+        "number": 8,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "301"
+    },
+    {
+        "card_name": "Juggeling is Cool",
+        "number": 9,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "293"
+    },
+    {
+        "card_name": "Klown",
+        "number": 10,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "282"
     },
     {
+        "card_name": "Like You",
+        "number": 11,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "Live to Live",
+        "number": 12,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "305"
+    },
+    {
+        "card_name": "Look My Way",
+        "number": 13,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "Losing Streak",
+        "number": 14,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "307"
+    },
+    {
+        "card_name": "A Love Song",
+        "number": 15,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "296"
+    },
+    {
+        "card_name": "Out For Love",
+        "number": 16,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "299"
+    },
+    {
+        "card_name": "Speedrun to Redemption",
+        "number": 17,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "295"
+    },
+    {
         "card_name": "Vox Dei",
-        "number": 3,
+        "number": 18,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2442,15 +2727,23 @@
     },
     {
         "card_name": "Look at This!",
-        "number": 4,
+        "number": 19,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "281"
     },
     {
+        "card_name": "Welcome to Heaven",
+        "number": 20,
+        "shape": "normal",
+        "set": "HUV",
+        "rotated": false,
+        "position": "300"
+    },
+    {
         "card_name": "Addicted",
-        "number": 5,
+        "number": 21,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
@@ -2458,14 +2751,11 @@
     },
     {
         "card_name": "Glitz and Glam, Double Trouble",
-        "number": 6,
+        "number": 22,
         "shape": "normal",
         "set": "HUV",
         "rotated": false,
         "position": "0"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
